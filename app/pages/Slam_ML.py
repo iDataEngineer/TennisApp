@@ -84,13 +84,10 @@ def GrandSlam():
     ############################################
     ################ APP Build #################
     ############################################
-    st.title('🏆 SlamApp: ATP Tour 2022 🏆')
+    st.header('Grand Slam Predictions')
 
     st.markdown ('''
-        This app is used for sharing the output from my SlamModel project...
-        \n
-        The plan is to update as each tournament progresses but also to collect all the results across the year...
-        \n
+        This app is used for sharing the output from my SlamModel project I run throughout the year.
         ''')
 
     # Header Image & Source
