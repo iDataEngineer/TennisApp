@@ -8,8 +8,9 @@ Some sort of intro...
 
 [![Data Pipeline](https://github.com/iDataEngineer/TennisApp/actions/workflows/data_pipeline.yml/badge.svg)](https://github.com/iDataEngineer/TennisApp/actions/workflows/data_pipeline.yml)
 
-Streamlit App : To be added...
+Streamlit App : 
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-TennisApp-brightgreen?icon=github)](https://idataengineer-tennisapp-apphome-rr2zf9.streamlitapp.com/)
 ---
 
 ## App Structure
