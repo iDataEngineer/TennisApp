@@ -15,7 +15,7 @@ def run():
     st.image(get_header())
 
 @st.cache(show_spinner=False)
-def get_header(url = 'https://raw.githubusercontent.com/iDataEngineer/ATP-SlamApp/main/data/SlamApp_BG.jpg', new_width = 1200):
+def get_header(url = 'https://raw.githubusercontent.com/iDataEngineer/ATP-SlamApp/main/data/SlamApp_BG.jpg', new_width = 1000):
     # get from web
     req = requests.get(url).content
     image_req = BytesIO(req)    
