@@ -1,0 +1,41 @@
+# GitHub Actions - ATP Tour data pipeline
+ 
+name: Data Pipeline
+
+on:
+  schedule: # 07:30 Daily
+    - cron: "30 7 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Checkout repo
+        uses: actions/checkout@v2 
+      
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9.10' 
+      
+      - name: Install dependencies
+        run: |
+          pip install pandas
+      
+      - name: Run DataPipeline
+        run: |
+          python pipelines/DataPipeline.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "DataPipeline run" -a
+        
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
