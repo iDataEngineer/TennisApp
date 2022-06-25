@@ -72,7 +72,7 @@ def ATP_Tour():
     ################## App Build ##################
     ###############################################
 
-    st.header('TennisApp ▶ ATP Player Stats')
+    st.header('ATP Player Stats')
     st.markdown('---')
 
     # KPI tiles
