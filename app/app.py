@@ -19,6 +19,7 @@ def ATP_Tour():
     players = player_list(data, ['winner_name', 'loser_name'])
     
     ### Sidebar ###
+    st.sidebar.title('ATP Tour Tennis App')
 
     # App Timestamp - most recent tournament in DB 
     tour_dates = data.set_index('tourney_date', drop = True)['tourney_name'].to_dict()
@@ -67,11 +68,9 @@ def ATP_Tour():
     ################## App Build ##################
     ###############################################
 
-    st.title('Tennis Ap - ATP Stats')
+    # # Header image
+    # st.image(get_header(new_width=800))
     st.markdown('---')
-
-    # Header image
-    st.image(get_header(new_width=800))
 
     # Make df's for matches won & loset
     player_data_w = data[(data['winner_name'] == selected_player)].copy()
@@ -99,8 +98,13 @@ def ATP_Tour():
 
         if player_data_l.index.max() > player_data_w.index.max() or len(player_data_w) == 0:
             current_rank = player_data_l.loc[player_data_l.index.max(), 'loser_rank']
+
+        if pd.isna(current_rank):
+            current_rank = 'No rank'
+        else:
+            current_rank = str(int(current_rank))
         
-        st.metric(label='Rank at Last Match', value=str(int(current_rank)))
+        st.metric(label='Rank at Last Match', value=current_rank)
 
 
     ### Rank Points Timeline ###
@@ -117,47 +121,24 @@ def ATP_Tour():
     wins = player_data_w['tourney_name'].value_counts().sort_values(ascending = False).rename('Match Wins')
     losses = player_data_l['tourney_name'].value_counts().sort_values(ascending = False).rename('Match Losses')
 
-    wins_losses = pd.concat([wins, losses], axis=1)
-    wins_losses['Time (hr)'] = [0 if pd.isna(i) else int(i) for i in wins_losses.index.map(data.groupby('tourney_name').sum()['minutes'].to_dict()) / 60]
-    wins_losses['Champion'] = [0 if pd.isna(i) else int(i) for i in wins_losses.index.map(data[(data['round'] == 'F') & (data['winner_name'] == selected_player)].groupby('tourney_name').count()['round'].to_dict())]
+    tour_summary = pd.concat([wins, losses], axis=1)
+    tour_summary['Time (hr)'] = [0 if pd.isna(i) else int(i) for i in tour_summary.index.map(data.groupby('tourney_name').sum()['minutes'].to_dict()) / 60]
+    tour_summary['Champion'] = [0 if pd.isna(i) else int(i) for i in tour_summary.index.map(data[(data['round'] == 'F') & (data['winner_name'] == selected_player)].groupby('tourney_name').count()['round'].to_dict())]
     
-    wins_losses['Match Wins'] = [0 if pd.isna(i) else int(i) for i in wins_losses['Match Wins']]
-    wins_losses['Match Losses'] = [0 if pd.isna(i) else int(i) for i in wins_losses['Match Losses']]
-    wins_losses['Total'] = wins_losses['Match Wins'] + wins_losses['Match Losses']
+    tour_summary['Match Wins'] = [0 if pd.isna(i) else int(i) for i in tour_summary['Match Wins']]
+    tour_summary['Match Losses'] = [0 if pd.isna(i) else int(i) for i in tour_summary['Match Losses']]
+    tour_summary['Total'] = tour_summary['Match Wins'] + tour_summary['Match Losses']
     
-    wins_losses['Win %'] = round(100 * wins_losses['Match Wins'] / (wins_losses['Match Wins'] + wins_losses['Match Losses']), 2)
-    wins_losses['Win %'] = [0 if pd.isna(i) else int(i) for i in wins_losses['Win %']]
+    tour_summary['Win %'] = round(100 * tour_summary['Match Wins'] / (tour_summary['Match Wins'] + tour_summary['Match Losses']), 2)
+    tour_summary['Win %'] = [0 if pd.isna(i) else int(i) for i in tour_summary['Win %']]
     
-    st.dataframe(wins_losses)
+    st.dataframe(tour_summary.sort_values('Champion', ascending=False))
 
     ### Time on Court ###
     st.markdown('---')
     st.subheader('Match Length Timeline ⏱')
     
-    st.pyplot(scatter_chart())
-
-    ### Matches won / lost ###
-    st.markdown('---')
-    st.subheader('Matches Results 📋')
-    st.markdown('---')
-
-    st.write('Matches Won')
-    if len(player_data_w) == 0:
-        st.write('No Match Wins')
-    else:
-        keep_cols = ['loser_name', 'age_diff','tourney_date', 'tourney_name', 'surface', 'round', 'score', 'minutes', 'sets_played']
-        matches_won = player_data_w.sort_values(by = ['tourney_date', 'minutes'], ascending = False)[keep_cols]
-        matches_won['tourney_date'] = [dt.datetime.strftime(i, '%d-%B-%Y') for i in matches_won['tourney_date'] ]
-        st.dataframe(matches_won.set_index('loser_name', drop = True))
-
-    st.write('Matches Lost')
-    if len(player_data_l) == 0:
-        st.write('No Match Losses')
-    else:
-        keep_cols = ['winner_name', 'age_diff','tourney_date', 'tourney_name', 'surface', 'round', 'score', 'minutes', 'sets_played']
-        matches_lost = player_data_l.sort_values(by = ['tourney_date', 'minutes'], ascending = False)[keep_cols]
-        matches_lost['tourney_date'] = [dt.datetime.strftime(i, '%d-%B-%Y') for i in matches_lost['tourney_date'] ]
-        st.dataframe(matches_lost.set_index('winner_name', drop = True))
+    st.pyplot(scatter_chart(data))
 
 
     ### Rivals
@@ -174,8 +155,28 @@ def ATP_Tour():
     st.bar_chart(rival_l.T)
 
 
-    
+    ### Matches won / lost ###
+    st.markdown('---')
+    st.subheader('Matches Results 📋')
+    st.markdown('---')
 
+    st.write('Matches Won')
+    if len(player_data_w) == 0:
+        st.write('No Match Wins')
+    else:
+        keep_cols = ['loser_name', 'score', 'round', 'minutes', 'tourney_date', 'tourney_name', 'surface', 'age_diff']
+        matches_won = player_data_w.sort_values(by = 'tourney_date', ascending = False)[keep_cols]
+        matches_won['tourney_date'] = [dt.datetime.strftime(i, '%b %Y') for i in matches_won['tourney_date'] ]
+        st.dataframe(matches_won.set_index('loser_name', drop = True))
+
+    st.write('Matches Lost')
+    if len(player_data_l) == 0:
+        st.write('No Match Losses')
+    else:
+        keep_cols = ['winner_name', 'score', 'round', 'minutes', 'tourney_date', 'tourney_name', 'surface', 'age_diff']
+        matches_lost = player_data_l.sort_values(by = 'tourney_date', ascending = False)[keep_cols]
+        matches_lost['tourney_date'] = [dt.datetime.strftime(i, '%d-%B-%Y') for i in matches_lost['tourney_date'] ]
+        st.dataframe(matches_lost.set_index('winner_name', drop = True)) 
     
 if __name__ == '__main__':
     ATP_Tour()
