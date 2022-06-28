@@ -1,7 +1,7 @@
 # SlamApp - Streamlit app for SlamModel outputs
-import pandas as pd, streamlit as st, PIL, requests
-from io import BytesIO
-from utils.Processor_SlamML import data_processor, create_merged_data
+import pandas as pd, streamlit as st
+from utils.preprocessor import data_processor, create_merged_data
+from utils.images import get_header
 
 #############################################
 ################ APP Set-Up #################
@@ -21,21 +21,7 @@ def GrandSlam():
         return data_processor()
 
     data = update_data()
-
-    # Header image
-    @st.cache(show_spinner=False)
-    def get_header(url = 'https://raw.githubusercontent.com/iDataEngineer/ATP-SlamApp/main/data/SlamApp_BG.jpg', new_width = 1200):
-        # get from web
-        req = requests.get(url).content
-        image_req = BytesIO(req)    
-        
-        # format image
-        img = PIL.Image.open(image_req)
-        wpercent = (new_width/float(img.size[0]))
-        hsize = int((float(img.size[1])*float(wpercent)))
-        
-        return img.resize((new_width,hsize), PIL.Image.ANTIALIAS)
-
+ 
     #############################################
     ################ App Sidebar ################
     #############################################
