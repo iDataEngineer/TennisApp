@@ -2,7 +2,7 @@
 import pandas as pd, datetime as dt
 from sys import path 
 
-path.append('..')
+path.append('../')
 
 def run_pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1):
     '''
@@ -96,4 +96,4 @@ if __name__ == '__main__':
     new_data = new_data[new_data['tourney_date'] > last_database_update]
     
     database_updated = pd.concat([database, new_data], axis=0).sort_values(by='tourney_date').reset_index(drop=True)
-    database_updated.to_csv(r'../data/ATP_Tour.csv')
+    database_updated.to_csv(r'data/ATP_Tour.csv')
