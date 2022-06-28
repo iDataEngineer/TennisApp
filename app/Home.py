@@ -5,14 +5,24 @@ from streamlit.logger import get_logger
 
 LOGGER = get_logger(__name__.title())
 
-def run():
+def app():
+
+    # Auto wide
     st.set_page_config(layout="wide")
 
-    # Homepage items
+    # Header
     st.title('Welome to the Tennis App...')
     st.markdown('''---''')
 
+    # Sidebar
+    st.sidebar.subheader(f'Select Page:') 
+    st.sidebar.info(f'')
+    st.sidebar.markdown('---')
+
+
+    # Content
     st.image(get_header())
+
 
 @st.cache(show_spinner=False)
 def get_header(url = 'https://raw.githubusercontent.com/iDataEngineer/ATP-SlamApp/main/data/SlamApp_BG.jpg', new_width = 1000):
@@ -28,4 +38,4 @@ def get_header(url = 'https://raw.githubusercontent.com/iDataEngineer/ATP-SlamAp
     return img.resize((new_width,hsize), PIL.Image.ANTIALIAS)
 
 if __name__ == "__main__":
-    run()
+    app()
