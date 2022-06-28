@@ -1,5 +1,8 @@
 ### ATP Tour Match Data Pipeline ###
 import pandas as pd, datetime as dt
+from sys import path 
+
+path.append('..')
 
 def run_pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1):
     '''
