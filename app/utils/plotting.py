@@ -24,7 +24,7 @@ def scatter_chart(data, group_col = 'tourney_level'):
 
     # Output
     plt.legend()
-    plt.title('Match Duration', size=14)
+    #plt.title('Match Duration', size=14)
     plt.ylabel('Hours')
     return fig
 

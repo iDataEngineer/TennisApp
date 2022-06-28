@@ -3,7 +3,7 @@ from io import BytesIO
 
 # Get image from 
 @st.cache(show_spinner=False)
-def get_header(source = 'https://raw.githubusercontent.com/iDataEngineer/ATP-SlamApp/main/data/SlamApp_BG.jpg', new_width = 1200):
+def get_header(source = 'https://raw.githubusercontent.com/iDataEngineer/TennisApp/main/app/utils/SlamApp_BG.jpg', new_width = 1200):
     # if from web
     if source[:4] == 'http':
         source = requests.get(source).content
