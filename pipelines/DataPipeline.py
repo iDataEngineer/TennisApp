@@ -1,8 +1,5 @@
 ### ATP Tour Match Data Pipeline ###
 import pandas as pd, datetime as dt
-from sys import path 
-
-path.append('../')
 
 def run_pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1):
     '''
@@ -86,7 +83,7 @@ def run_pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1):
 ### Run Pipeline ###
 if __name__ == '__main__':
     # Check most recent entry in DB
-    database = pd.read_csv(r'../data/ATP_Tour.csv', index_col=0, parse_dates=['tourney_date'])
+    database = pd.read_csv(r'data/ATP_Tour.csv', index_col=0, parse_dates=['tourney_date'])
     last_database_update = database['tourney_date'].max()
  
     # Run pipeline extract from start of year of last db update
