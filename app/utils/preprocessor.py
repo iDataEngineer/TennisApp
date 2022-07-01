@@ -77,7 +77,7 @@ def ranking_points(data_w, data_l):
 #### SLAM ML #### 
 def data_processor():
     urls = [
-            'https://raw.githubusercontent.com/iDataEngineer/ATP-SlamApp/main/data/SlamModel_output.csv',
+            'https://raw.githubusercontent.com/iDataEngineer/TennisApp/main/data/GS_predict.csv',
     ]
     
     # extract
