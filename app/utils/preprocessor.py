@@ -6,7 +6,7 @@ import pandas as pd, streamlit as st, datetime as dt
 # Update dataset
 st.cache(show_spinner=False)
 def app_data():
-    data = pd.read_csv(r'https://raw.githubusercontent.com/iDataEngineer/DataEng-atp-stats/main/data/atp_matches_db.csv', parse_dates=['tourney_date'], index_col=0)
+    data = pd.read_csv(r'https://raw.githubusercontent.com/iDataEngineer/TennisApp/main/data/ATP_tour.csv', parse_dates=['tourney_date'], index_col=0)
     data = data.drop(columns=['tourney_id', 'match_num', 'winner_id', 'loser_id'])
 
     data['winner_hand'] = data['winner_hand'].map({'R':'R', 'L':'L', 'U':'U', 0:'U'})
