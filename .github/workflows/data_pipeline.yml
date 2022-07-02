@@ -4,7 +4,7 @@ name: Data Pipeline
 
 on:
   schedule: # 9pm UTC Daily
-    - cron: "00 21 * * *"
+    - cron: "30 21 * * *"
 
 jobs:
   DataPipeline:
