@@ -83,7 +83,7 @@ def run_pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1):
 ### Run Pipeline ###
 if __name__ == '__main__':
     # Check most recent entry in DB
-    database = pd.read_csv(r'../data/ATP_Tour.csv', index_col=0, parse_dates=['tourney_date'])
+    database = pd.read_csv(r'data/ATP_Tour.csv', index_col=0, parse_dates=['tourney_date'])
     last_database_update = database['tourney_date'].max()
  
     # Run pipeline extract from start of year of last db update
@@ -93,4 +93,4 @@ if __name__ == '__main__':
     new_data = new_data[new_data['tourney_date'] > last_database_update]
     
     database_updated = pd.concat([database, new_data], axis=0).sort_values(by='tourney_date').reset_index(drop=True)
-    database_updated.to_csv(r'../data/ATP_Tour.csv')
+    database_updated.to_csv(r'data/ATP_Tour.csv')
