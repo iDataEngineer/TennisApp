@@ -75,6 +75,7 @@ def ranking_points(data_w, data_l):
 
 
 #### SLAM ML #### 
+@st.cache
 def data_processor():
     urls = [
             'https://raw.githubusercontent.com/iDataEngineer/TennisApp/main/data/GS_predict.csv',
