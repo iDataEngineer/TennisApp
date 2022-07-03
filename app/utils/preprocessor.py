@@ -1,5 +1,5 @@
 # Data Processor
-import pandas as pd, streamlit as st, datetime as dt
+import numpy as np, pandas as pd, streamlit as st, datetime as dt
 
 ### Functions ###
 
@@ -75,7 +75,6 @@ def ranking_points(data_w, data_l):
 
 
 #### SLAM ML #### 
-@st.cache
 def data_processor():
     urls = [
             'https://raw.githubusercontent.com/iDataEngineer/TennisApp/main/data/GS_predict.csv',
@@ -98,8 +97,8 @@ def data_processor():
     data['Match No'] = data.index + 1
 
     # Convert to %
-    data['P1 Win %'] = [int(round(100 * i, 1)) for i in  data['P1 Win %']]
-    data['P2 Win %'] = [int(round(100 * i, 1)) for i in  data['P2 Win %']]
+    data['P1 Win %'] = [np.nan if pd.isna(i) else int(round(100 * i, 1)) for i in  data['P1 Win %']]
+    data['P2 Win %'] = [np.nan if pd.isna(i) else int(round(100 * i, 1)) for i in  data['P2 Win %']]
     
     # Slam names
     slam_map = {'ausopen': 'Australian Open', 'frenchopen': 'Roland Garros', 'wimbledon': 'The Championships', 'usopen': 'US Open'}

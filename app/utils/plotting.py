@@ -7,7 +7,7 @@ def scatter_chart(data, group_col = 'tourney_level'):
     # Group and arrange data
     groups = data.groupby(group_col)
 
-    level_d = {'Grand Slam': 'G', 'Tour Finals': 'F', 'Masters 1000': 'M', 'ATP 250 & 500': 'A', 'Davis Cup': 'D',}
+    level_d = {'Grand Slam': 4, 'Tour Finals': 3, 'Masters 1000': 2, 'ATP 250 & 500': 1, 'Davis Cup': 0,}
     level_d_inv = {v: k for k, v in level_d.items()}
 
     #Build chart
