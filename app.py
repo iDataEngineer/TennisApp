@@ -130,7 +130,7 @@ tour_summary['Total'] = tour_summary['Match Wins'] + tour_summary['Match Losses'
 tour_summary['Win %'] = round(100 * tour_summary['Match Wins'] / (tour_summary['Match Wins'] + tour_summary['Match Losses']), 2)
 tour_summary['Win %'] = [0 if pd.isna(i) else int(i) for i in tour_summary['Win %']]
 
-st.dataframe(tour_summary.sort_values('Champion', ascending=False))
+st.dataframe(tour_summary.sort_values('Champion', ascending=False), width=1200)
 
 ### Time on Court ###
 st.markdown('---')
