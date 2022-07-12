@@ -34,7 +34,7 @@ def run_pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1):
         'London Olympics': 0, 'Rio Olympics': 0, 'Tokyo Olympics': 0, 
         'ATP Next Gen Finals': 0,'Us Open': 2000, 'Cagliari': 250, 'Marbella': 250}
     
-    events_url = '../data/ATP_event_points.csv'
+    events_url = 'data/ATP_event_points.csv'
     events_map = pd.read_csv(events_url, index_col = 0).set_index('atp_event', drop=True)['atp_points'].to_dict()
     events_map.update(null_map)
 
