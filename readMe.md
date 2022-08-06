@@ -22,3 +22,17 @@ An application with a Streamlit front-end and a back-end database, updated daily
 
 ---
 <br/>
+
+### 🐳 Docker
+
+Build the image
+
+````
+docker build -t streamlit_img .
+````
+
+Run the container
+
+````
+docker run --name streamlit_container -p 8501:8501 streamlit_img:latest
+````
