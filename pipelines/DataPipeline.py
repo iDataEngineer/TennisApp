@@ -1,31 +1,36 @@
-### ATP Tour Match Data Pipeline ###
-import pandas as pd, datetime as dt, sys
-sys.path.append('../')
-
-def run_pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1):
+### Tour Match Data Pipeline ###
+import datetime as dt, pandas as pd, requests
+    
+def Pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1, tour: str = 'ATP'):
     '''
-    This pipeline will extract ATP tour match data from Jeff Sackmann's Github repo of annual tour csv's 
+    This pipeline will extract tour match data from Jeff Sackmann's Github repo of annual tour csv's 
     and consolodate it into a common database.
-
     There is data available from 1968 up to the present day by default.
-
     Users can specify the start_year and end_year kw-args in the run_pipeline() function call. 
     '''
-    
     # Create a list of file locations
     tour_files = []
 
     for i in range(start_year, end_year):
-        url_base = r'https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_'
+        if tour.upper() == 'ATP':
+            url_base = r'https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_'
+        elif tour.upper() == 'WTA':
+            url_base = r'https://raw.githubusercontent.com/JeffSackmann/tennis_wta/master/wta_matches_'
+        else:
+            raise ValueError('Select a tour : "ATP" or "WTA"')
+        
         url_end = '{}.csv'.format(i)
         tour_files.append(url_base + url_end)
-
+    
     # Extract files using list
-    df_tour = pd.read_csv(tour_files[0], parse_dates=['tourney_date'])
-
-    for i in tour_files[1:]:
-        df_iter = pd.read_csv(i, parse_dates=['tourney_date'])
-        df_tour = pd.concat([df_tour, df_iter])
+    for n, file in enumerate(tour_files):
+        if requests.get(file).status_code == 200:
+            df_iter = pd.read_csv(file, parse_dates=['tourney_date'])
+            
+            if n == 0:
+                df_tour = df_iter
+            else:
+                df_tour = pd.concat([df_tour, df_iter])
     
     # Set up mapping groups
     map_tourney_level = {'A': 1, 'M': 2, 'F': 3, 'G': 4, 'D':0}
@@ -34,15 +39,15 @@ def run_pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1):
         'London Olympics': 0, 'Rio Olympics': 0, 'Tokyo Olympics': 0, 
         'ATP Next Gen Finals': 0,'Us Open': 2000, 'Cagliari': 250, 'Marbella': 250}
     
-    events_url = 'data/ATP_event_points.csv'
-    events_map = pd.read_csv(events_url, index_col = 0)['atp_points'].to_dict()
+    events_url = 'data/event_points.csv'
+    events_map = pd.read_csv(events_url, index_col = 0)['tour_points'].to_dict()
     events_map.update(null_map)
 
     # Map objects to integers
     df_tour['tourney_level'] = df_tour['tourney_level'].map(map_tourney_level)
     df_tour['round_no'] = df_tour['round'].map(map_round)
-    df_tour['atp_points'] = df_tour['tourney_name'].map(events_map)
-    df_tour['atp_points'] = [0 if pd.isna(i) else i for i in df_tour['atp_points']]
+    df_tour['tour_points'] = df_tour['tourney_name'].map(events_map)
+    df_tour['tour_points'] = [0 if pd.isna(i) else i for i in df_tour['tour_points']]
 
     # Map ranking points gained from match
     round_points_win = {
@@ -60,7 +65,7 @@ def run_pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1):
         250: {7:60, 6:45, 5:25, 4:15, 3: 5, 2:0}}
 
     rounds = df_tour['round_no'].to_numpy()
-    points = df_tour['atp_points'].to_numpy()
+    points = df_tour['tour_points'].to_numpy()
     
     df_tour['points_winner'] = [
         0 if points[i] == 0 else 0 if pd.isna(points[i]) 
@@ -81,14 +86,14 @@ def run_pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1):
     drop_cols = ['winner_entry', 'winner_seed', 'loser_entry', 'loser_seed']
     return df_tour.reset_index(drop = True).drop(columns = drop_cols)
 
-### Run Pipeline ###
+
 if __name__ == '__main__':
     # Check most recent entry in DB
     database = pd.read_csv(r'data/ATP_tour.csv', index_col=0, parse_dates=['tourney_date'])
     last_database_update = database['tourney_date'].max()
  
     # Run pipeline extract from start of year of last db update
-    new_data = run_pipeline(start_year=last_database_update.year)
+    new_data = Pipeline(start_year=last_database_update.year)
 
     # Filter & load new entries to DB
     new_data = new_data[new_data['tourney_date'] > last_database_update]
