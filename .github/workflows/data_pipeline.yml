@@ -4,7 +4,7 @@ name: Data Pipeline
 
 on:
   schedule: # 7:30pm UTC Daily
-    - cron: "30 19 * * *"
+    - cron: "30 14 * * *"
 
 jobs:
   DataPipeline:
@@ -12,16 +12,16 @@ jobs:
     steps:
     
       - name: Checkout repo
-        uses: actions/checkout@v2 
+        uses: actions/checkout@v3
       
       - name: Setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10.6' 
       
       - name: Install dependencies
         run: |
-          pip install pandas
+          pip install -r requirements.txt
       
       - name: Run DataPipeline
         run: |
@@ -32,7 +32,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "DataPipeline run" -a
+          git commit -m "Pipeline run" -a
         
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
