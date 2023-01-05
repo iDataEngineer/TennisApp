@@ -3,8 +3,8 @@
 name: Data Pipeline
 
 on:
-  schedule: # 7:30pm UTC Daily
-    - cron: "30 14 * * *"
+  schedule: # UTC Daily
+    - cron: "30 15 * * *"
 
 jobs:
   DataPipeline:
