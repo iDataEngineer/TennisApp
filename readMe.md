@@ -18,7 +18,7 @@ An application with a Streamlit front-end and a back-end database, updated daily
 | | <s></s>
 |--|--
 | Data Pipeline | [![Data Pipeline](https://github.com/iDataEngineer/TennisApp/actions/workflows/data_pipeline.yml/badge.svg)](https://github.com/iDataEngineer/TennisApp/actions/workflows/data_pipeline.yml)
-| Streamlit App | [![Streamlit App](https://img.shields.io/badge/Streamlit-TennisApp-brightgreen?icon=github)](https://dnyfzr-tennisapp-app-8v6u3x.streamlitapp.com/)
+| Streamlit App | [![Streamlit App](https://img.shields.io/badge/Streamlit-TennisApp-brightgreen?icon=github)](https://tennis.streamlit.app/)
 
 ---
 <br/>
