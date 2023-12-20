@@ -120,7 +120,8 @@ def app():
     losses = player_data_l['tourney_name'].value_counts().sort_values(ascending = False).rename('Match Losses')
 
     tour_summary = pd.concat([wins, losses], axis=1)
-    tour_summary['Time (hr)'] = [0 if pd.isna(i) else int(i) for i in tour_summary.index.map(data.groupby('tourney_name').sum()['minutes'].to_dict()) / 60]
+    tour_summary['Time (hr)'] = [0 if pd.isna(i) else int(i) 
+                                 for i in tour_summary.index.map(data.groupby('tourney_name')['minutes'].sum().to_dict()) / 60]
     tour_summary['Champion'] = [0 if pd.isna(i) else int(i) for i in tour_summary.index.map(data[(data['round'] == 'F') & (data['winner_name'] == selected_player)].groupby('tourney_name').count()['round'].to_dict())]
 
     tour_summary['Match Wins'] = [0 if pd.isna(i) else int(i) for i in tour_summary['Match Wins']]
