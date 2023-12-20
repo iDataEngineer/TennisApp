@@ -15,8 +15,7 @@ def scatter_chart(data:pd.DataFrame, group_col = 'tourney_level'):
 
     for name, group in groups:
         name = level_d_inv[name]
-        plt.plot(group['tourney_date'], (group['minutes'] / 60).round(1), 
-                 label=name)
+        plt.plot(group['tourney_date'], (group['minutes'] / 60).round(1), markersize=4, marker='o', linestyle='', label=name)
 
     # Plot color
     plt.rcParams['axes.facecolor']= 'gainsboro'
