@@ -4,7 +4,7 @@ import numpy as np, pandas as pd, streamlit as st, datetime as dt
 ### Functions ###
 
 # Update dataset
-st.cache(show_spinner=False)
+st.cache_data(show_spinner=False)
 def app_data():
     data = pd.read_csv(r'https://raw.githubusercontent.com/iDataEngineer/TennisApp/main/data/ATP_tour.csv', parse_dates=['tourney_date'], index_col=0)
     data = data.drop(columns=['tourney_id', 'match_num', 'winner_id', 'loser_id'])
@@ -21,13 +21,13 @@ def app_data():
 
 
 # Convert dataframe to csv for user download
-@st.cache
+@st.cache_data
 def convert_df(df):
     return df.to_csv().encode('utf-8')
 
 
 # List of unique players
-@st.cache
+@st.cache_data
 def player_list(df, col_list):    
     players = df[col_list[0]].copy()
 
@@ -40,7 +40,7 @@ def player_list(df, col_list):
 
 
 # Apply filters to dataset 
-@st.cache(show_spinner=False)
+@st.cache_data(show_spinner=False)
 def filter_data(df, column_name, player):
     output = ['All']
     

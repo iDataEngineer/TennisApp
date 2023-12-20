@@ -1,8 +1,6 @@
-requests==2.27.1
-pandas==1.4.0
-
+requests>=2.27.1
+pandas<=2
 click==8.0.3
-streamlit==1.11.1
-
-matplotlib==3.5.1
-seaborn==0.11.2
+streamlit>=1.11
+matplotlib>=3.5
+seaborn>=0.11

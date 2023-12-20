@@ -13,7 +13,6 @@ from utils.plotting import scatter_chart
 auto_wide_mode()
 
 def app():
-    ### Data ###
     data = app_data()
     players = player_list(data, ['winner_name', 'loser_name'])
 
@@ -35,11 +34,13 @@ def app():
     st.sidebar.subheader('App Filters:')
 
     # Player filter
-    selected_player = st.sidebar.selectbox(label= 'Select Player', options= players, index=list(players).index('Rafael Nadal'))
+    selected_player = st.sidebar.selectbox(label= 'Select Player', options= players, index=list(players).index('Novak Djokovic'))
     data = data[(data['winner_name'] == selected_player) | (data['loser_name'] == selected_player)].copy()
 
     # Year filter
-    selected_year = st.sidebar.selectbox(label= 'Select year', options= filter_data(data, 'tourney_date', selected_player), index=0)
+    lst = filter_data(data, 'tourney_date', selected_player)
+    selected_year = st.sidebar.selectbox(label= 'Select year', options= lst, index=len(lst)-1)
+    
     if selected_year != 'All':
         data = data[data['tourney_date'].dt.year == selected_year]
 
@@ -67,8 +68,6 @@ def app():
     ################## App Build ##################
     ###############################################
 
-    # # Header image
-    # st.image(get_header(new_width=800))
     st.markdown('---')
 
     # Make df's for matches won & loset

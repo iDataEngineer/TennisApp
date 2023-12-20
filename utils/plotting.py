@@ -1,9 +1,9 @@
 # Chart functons for app
-import matplotlib.pyplot as plt, seaborn as sns
+import matplotlib.pyplot as plt, seaborn as sns, pandas as pd
 sns.set()
 
 # Scatter 
-def scatter_chart(data, group_col = 'tourney_level'):
+def scatter_chart(data:pd.DataFrame, group_col = 'tourney_level'):
     # Group and arrange data
     groups = data.groupby(group_col)
 
@@ -16,7 +16,7 @@ def scatter_chart(data, group_col = 'tourney_level'):
     for name, group in groups:
         name = level_d_inv[name]
         plt.plot(group['tourney_date'], (group['minutes'] / 60).round(1), 
-                marker='o', linestyle='', markersize=6, label=name)
+                 label=name)
 
     # Plot color
     plt.rcParams['axes.facecolor']= 'gainsboro'
@@ -24,7 +24,6 @@ def scatter_chart(data, group_col = 'tourney_level'):
 
     # Output
     plt.legend()
-    #plt.title('Match Duration', size=14)
     plt.ylabel('Hours')
     return fig
 
