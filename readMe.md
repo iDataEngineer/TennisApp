@@ -1,4 +1,4 @@
-<h1 align="center"><b> 🥇 Tennis App 🥇 </b></h1>
+<h1 align="center"><b> dropshot </b></h1>
 <br/>
 
 An application with a Streamlit front-end and a back-end database, updated daily via Github actions.
