@@ -1,5 +1,5 @@
 # Install Python image
-FROM python:3.9
+FROM python:3.12
 # Set API base dir
 WORKDIR /
 # Copy requirements to image dir (enables Docker caching)
