@@ -1,11 +1,13 @@
 ### Tour Match Data Pipeline ###
 import datetime as dt, pandas as pd, requests
     
-def Pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1, tour: str = 'ATP'):
+def TourPipeline(start_year = 1968, end_year = dt.datetime.now().year + 1, tour: str = 'ATP'):
     '''
     This pipeline will extract tour match data from Jeff Sackmann's Github repo of annual tour csv's 
     and consolodate it into a common database.
+
     There is data available from 1968 up to the present day by default.
+
     Users can specify the start_year and end_year kw-args in the run_pipeline() function call. 
     '''
     # Create a list of file locations
@@ -39,7 +41,7 @@ def Pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1, tour: str
         'London Olympics': 0, 'Rio Olympics': 0, 'Tokyo Olympics': 0, 
         'ATP Next Gen Finals': 0,'Us Open': 2000, 'Cagliari': 250, 'Marbella': 250}
     
-    events_url = 'data/event_points.csv'
+    events_url = 'data/events.csv'
     events_map = pd.read_csv(events_url, index_col = 0)['tour_points'].to_dict()
     events_map.update(null_map)
 
@@ -88,15 +90,9 @@ def Pipeline(start_year = 1968, end_year = dt.datetime.now().year + 1, tour: str
 
 
 if __name__ == '__main__':
-    # Check most recent entry in DB
-    database = pd.read_csv(r'data/ATP_tour.csv', index_col=0, parse_dates=['tourney_date'])
-    last_database_update = database['tourney_date'].max()
- 
-    # Run pipeline extract from start of year of last db update
-    new_data = Pipeline(start_year=last_database_update.year)
+    import os
+    tour_key = os.getenv("TOUR_KEY")
 
-    # Filter & load new entries to DB
-    new_data = new_data[new_data['tourney_date'] > last_database_update]
-    
-    database_updated = pd.concat([database, new_data], axis=0).sort_values(by='tourney_date').reset_index(drop=True)
-    database_updated.to_csv(r'data/ATP_tour.csv')
+    table_name=f'{tour_key}_matches'
+    table_data=TourPipeline(start_year=2011, tour=tour_key)
+    table_data.to_parquet(f"database/{table_name}.parquet")
