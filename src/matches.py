@@ -1,7 +1,7 @@
 ### Tour Match Data Pipeline ###
 import datetime as dt, polars as pl
     
-def TourPipeline(start_year = 1968, end_year = dt.datetime.now().year + 1, tour: str = "ATP"):
+def get_tour_results(start_year = 1968, end_year = dt.datetime.now().year + 1, tour: str = "ATP"):
     """
     This pipeline will extract tour match data from Jeff Sackmann"s Github repo of annual tour csv"s 
     and consolodate it into a common database.
@@ -50,7 +50,7 @@ def TourPipeline(start_year = 1968, end_year = dt.datetime.now().year + 1, tour:
         "London Olympics": 0, "Rio Olympics": 0, "Tokyo Olympics": 0, "Paris Olympics": 0,
         "ATP Next Gen Finals": 0,"Us Open": 2000, "Cagliari": 250, "Marbella": 250}
     
-    events_url = "data/events.csv"
+    events_url = "data/static/events.csv"
     events_map = pl.read_csv(events_url)
     events_map = {e : p for e in events_map.select("event").to_series().to_list() for p in events_map.select("points").to_series().to_list()}
     events_map.update(null_map)
@@ -111,5 +111,5 @@ if __name__ == "__main__":
     tour_key = os.getenv("TOUR_KEY")
 
     table_name=f"{tour_key}_matches"
-    table_data=TourPipeline(start_year=2011, tour=tour_key)
+    table_data=get_tour_results(start_year=2011, tour=tour_key)
     table_data.write_parquet(f"data/{table_name}.parquet")

@@ -1,7 +1,6 @@
-# Grand Slam Result Table Builder
-import os, polars as pl
+import polars as pl
 
-class GrandSlamData:
+class EventData:
     def __init__(self, tour:str, slam:str, year:int):
         self.tour = tour
         self.slam = slam
@@ -121,33 +120,13 @@ class GrandSlamData:
         
         return event.select([i for i in output_cols if i in event.columns])
 
-class EventFeatures:
-    def __init__(self, dir:str):
-        self.dir = dir
-
-    def get_table(self) -> pl.DataFrame:
-        files = [pl.read_parquet(f"{self.dir}/{i}") for i in os.listdir(self.dir) if i.endswith(".parquet")]
-        table =  pl.concat(files, how="diagonal_relaxed")
-        table = table.with_columns(
-            serve_mph = pl.when(pl.col("Speed_MPH").is_not_null()).then(pl.col("Speed_MPH")).otherwise((pl.col("Speed_KMH").cast(pl.Int64) / 1.60934).cast(pl.Int64)),
-            rally_count = pl.when(pl.col("Rally").is_not_null()).then(pl.col("Rally")).otherwise(pl.col("RallyCount")),
-        ).drop(["Speed_MPH", "Speed_KMH", "Rally", "RallyCount"])
-
-        return table
-
-
 if __name__ == "__main__":
     tournaments = ["Australian Open", "French Open", "Wimbledon", "US Open"]
     years = list(range(2011, 2025))
 
-    # tour_map = [(i, j) for i in tournaments for j in years]
-    # for event, year in tour_map:
-    #     res = GrandSlamData("atp", event, year).get_results()
+    tour_map = [(i, j) for i in tournaments for j in years]
+    for event, year in tour_map:
+        res = EventData("atp", event, year).get_results()
         
-    #     if not res.is_empty():
-    #         res.write_parquet(f"data/events/atp-{event.replace(" ", "").lower()}-{year}.parquet")
-
-
-    feats = EventFeatures("data/events").get_table()
-    feats.write_parquet(f"data/all-slams-{min(years)}-{max(years)}.parquet")
-    print(feats.sample(30))
+        if not res.is_empty():
+            res.write_parquet(f"data/events/atp-{event.replace(" ", "").lower()}-{year}.parquet")
