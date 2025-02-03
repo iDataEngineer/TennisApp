@@ -1,0 +1,1017 @@
+,year,slam,match_num,player1,player2,winner,surface,round,p1_win_pred,p2_win_pred,Pred
+0,2021,ausopen,1,N. Djokovic,J. Chardy,N. Djokovic,Hard,1,0.8925111,0.10748887,N. Djokovic
+1,2021,ausopen,2,F. Tiafoe,S. Travaglia,F. Tiafoe,Hard,1,0.6359312,0.3640688,F. Tiafoe
+2,2021,ausopen,3,R. Opelka,Y. Lu,R. Opelka,Hard,1,0.7875352,0.21246481,R. Opelka
+3,2021,ausopen,4,A. Ramos,T. Fritz,T. Fritz,Hard,1,0.18181872,0.8181813,T. Fritz
+4,2021,ausopen,5,S. Wawrinka,P. Sousa,S. Wawrinka,Hard,1,0.79627985,0.20372015,S. Wawrinka
+5,2021,ausopen,6,M. Fucsovics,M. Polmans,M. Fucsovics,Hard,1,0.56563866,0.43436134,M. Fucsovics
+6,2021,ausopen,7,C. Moutet,J. Millman,J. Millman,Hard,1,0.4111304,0.5888696,J. Millman
+7,2021,ausopen,8,F. Coria,M. Raonic,M. Raonic,Hard,1,0.17428625,0.82571375,M. Raonic
+8,2021,ausopen,9,G. Monfils,E. Ruusuvuori,E. Ruusuvuori,Hard,1,0.7053382,0.29466182,G. Monfils
+9,2021,ausopen,10,Y. Nishioka,P. Martinez,P. Martinez,Hard,1,0.54582065,0.45417935,Y. Nishioka
+10,2021,ausopen,11,A. Bedene,A. Bublik,A. Bublik,Hard,1,0.43660432,0.5633957,A. Bublik
+11,2021,ausopen,12,S. Stakhovsky,D. Lajovic,D. Lajovic,Hard,1,0.04193035,0.9580697,D. Lajovic
+12,2021,ausopen,13,A. Mannarino,D. Novak,A. Mannarino,Hard,1,0.42217952,0.5778205,D. Novak
+13,2021,ausopen,14,M. Kecmanovic,K. Majchrzak,M. Kecmanovic,Hard,1,0.46845686,0.53154314,K. Majchrzak
+14,2021,ausopen,15,T. Daniel,M. Cressy,M. Cressy,Hard,1,0.18538332,0.8146167,M. Cressy
+15,2021,ausopen,16,M. Giron,A. Zverev,A. Zverev,Hard,1,0.18767649,0.8123235,A. Zverev
+16,2021,ausopen,17,D. Thiem,M. Kukushkin,D. Thiem,Hard,1,0.7528338,0.24716622,D. Thiem
+17,2021,ausopen,18,D. Koepfer,H. Dellien,D. Koepfer,Hard,1,0.6655724,0.3344276,D. Koepfer
+18,2021,ausopen,19,F. Silva,N. Kyrgios,N. Kyrgios,Hard,1,0.02510104,0.97489893,N. Kyrgios
+19,2021,ausopen,20,Y. Uchiyama,U. Humbert,U. Humbert,Hard,1,0.37301236,0.62698764,U. Humbert
+20,2021,ausopen,21,G. Dimitrov,M. Cilic,G. Dimitrov,Hard,1,0.49127632,0.5087237,M. Cilic
+21,2021,ausopen,22,A. Bolt,N. Gombos,A. Bolt,Hard,1,0.41266435,0.58733565,N. Gombos
+22,2021,ausopen,23,K. Coppejans,J. Vesely,J. Vesely,Hard,1,0.08418509,0.9158149,J. Vesely
+23,2021,ausopen,24,K. Nishikori,P. Carreno Busta,P. Carreno Busta,Hard,1,0.46753275,0.53246725,P. Carreno Busta
+24,2021,ausopen,25,D. Shapovalov,J. Sinner,D. Shapovalov,Hard,1,0.6962651,0.3037349,D. Shapovalov
+25,2021,ausopen,26,Y. Sugita,B. Tomic,B. Tomic,Hard,1,0.6662658,0.3337342,Y. Sugita
+26,2021,ausopen,27,D. Dzumhur,J. Duckworth,J. Duckworth,Hard,1,0.4959533,0.5040467,J. Duckworth
+27,2021,ausopen,28,C. Stebe,F. Auger Aliassime,F. Auger Aliassime,Hard,1,0.39353764,0.60646236,F. Auger Aliassime
+28,2021,ausopen,29,B. Paire,E. Gerasimov,E. Gerasimov,Hard,1,0.5694399,0.4305601,B. Paire
+29,2021,ausopen,30,G. Mager,A. Karatsev,A. Karatsev,Hard,1,0.01358956,0.98641044,A. Karatsev
+30,2021,ausopen,31,F. Delbonis,J. Londero,J. Londero,Hard,1,0.28355712,0.7164429,J. Londero
+31,2021,ausopen,32,E. Ymer,D. Schwartzman,D. Schwartzman,Hard,1,0.02477071,0.97522926,D. Schwartzman
+32,2021,ausopen,33,A. Rublev,Y. Hanfmann,A. Rublev,Hard,1,0.961627,0.03837299,A. Rublev
+33,2021,ausopen,34,T. Monteiro,A. Martin,T. Monteiro,Hard,1,0.5153666,0.4846334,T. Monteiro
+34,2021,ausopen,35,L. Tu,F. Lopez,F. Lopez,Hard,1,0.05105236,0.94894767,F. Lopez
+35,2021,ausopen,36,S. Querrey,L. Sonego,L. Sonego,Hard,1,0.54497653,0.45502347,S. Querrey
+36,2021,ausopen,37,C. Ruud,J. Thompson,C. Ruud,Hard,1,0.45237494,0.54762506,J. Thompson
+37,2021,ausopen,38,N. Basilashvili,T. Paul,T. Paul,Hard,1,0.5218858,0.4781142,N. Basilashvili
+38,2021,ausopen,39,C. OConnell,J. Struff,C. OConnell,Hard,1,0.2570535,0.7429465,J. Struff
+39,2021,ausopen,40,R. Albot,R. Bautista Agut,R. Albot,Hard,1,0.2404795,0.75952053,R. Bautista Agut
+40,2021,ausopen,41,D. Goffin,A. Popyrin,A. Popyrin,Hard,1,0.50946325,0.49053675,D. Goffin
+41,2021,ausopen,42,L. Harris,M. Torpegaard,L. Harris,Hard,1,0.83556145,0.16443855,L. Harris
+42,2021,ausopen,43,M. McDonald,M. Cecchinato,M. McDonald,Hard,1,0.5745543,0.42544568,M. McDonald
+43,2021,ausopen,44,G. Pella,B. Coric,B. Coric,Hard,1,0.3248372,0.6751628,B. Coric
+44,2021,ausopen,45,F. Krajinovic,R. Haase,F. Krajinovic,Hard,1,0.5727042,0.4272958,F. Krajinovic
+45,2021,ausopen,46,P. Andujar,Q. Halys,P. Andujar,Hard,1,0.43390757,0.56609243,Q. Halys
+46,2021,ausopen,47,R. Carballes Baena,A. Balazs,R. Carballes Baena,Hard,1,0.63854223,0.36145777,R. Carballes Baena
+47,2021,ausopen,48,V. Pospisil,D. Medvedev,D. Medvedev,Hard,1,0.26474887,0.7352511,D. Medvedev
+48,2021,ausopen,49,S. Tsitsipas,G. Simon,S. Tsitsipas,Hard,1,0.6174871,0.38251293,S. Tsitsipas
+49,2021,ausopen,50,T. Kokkinakis,S. Kwon,T. Kokkinakis,Hard,1,0.62419474,0.37580526,T. Kokkinakis
+50,2021,ausopen,51,B. van de Zandschulp,C. Alcaraz Garfia,C. Alcaraz Garfia,Hard,1,0.32406735,0.67593265,C. Alcaraz Garfia
+51,2021,ausopen,52,M. Ymer,H. Hurkacz,M. Ymer,Hard,1,0.47816867,0.52183133,H. Hurkacz
+52,2021,ausopen,53,K. Khachanov,A. Vukic,K. Khachanov,Hard,1,0.937701,0.06229901,K. Khachanov
+53,2021,ausopen,54,R. Berankis,S. Nagal,R. Berankis,Hard,1,0.6690873,0.3309127,R. Berankis
+54,2021,ausopen,55,T. Machac,M. Martinez,T. Machac,Hard,1,0.3242671,0.6757329,M. Martinez
+55,2021,ausopen,56,K. Anderson,M. Berrettini,M. Berrettini,Hard,1,0.30701977,0.69298023,M. Berrettini
+56,2021,ausopen,57,F. Fognini,P. Herbert,F. Fognini,Hard,1,0.55664545,0.44335455,F. Fognini
+57,2021,ausopen,58,H. Laaksonen,S. Caruso,S. Caruso,Hard,1,0.46698102,0.53301895,S. Caruso
+58,2021,ausopen,59,P. Cuevas,A. Seppi,P. Cuevas,Hard,1,0.46576443,0.5342356,A. Seppi
+59,2021,ausopen,60,T. Sandgren,A. de Minaur,A. de Minaur,Hard,1,0.42084238,0.5791576,A. de Minaur
+60,2021,ausopen,61,D. Evans,C. Norrie,C. Norrie,Hard,1,0.58662564,0.41337436,D. Evans
+61,2021,ausopen,62,I. Ivashka,R. Safiullin,R. Safiullin,Hard,1,0.87971807,0.12028194,I. Ivashka
+62,2021,ausopen,63,M. Mmoh,V. Troicki,M. Mmoh,Hard,1,0.5144109,0.4855891,M. Mmoh
+63,2021,ausopen,64,L. Djere,R. Nadal,R. Nadal,Hard,1,0.06371412,0.93628585,R. Nadal
+64,2021,ausopen,65,N. Djokovic,F. Tiafoe,N. Djokovic,Hard,2,0.8187287,0.18127131,N. Djokovic
+65,2021,ausopen,66,R. Opelka,T. Fritz,T. Fritz,Hard,2,0.3385796,0.6614204,T. Fritz
+66,2021,ausopen,67,S. Wawrinka,M. Fucsovics,M. Fucsovics,Hard,2,0.57780397,0.42219603,S. Wawrinka
+67,2021,ausopen,68,C. Moutet,M. Raonic,M. Raonic,Hard,2,0.19012278,0.8098772,M. Raonic
+68,2021,ausopen,69,E. Ruusuvuori,P. Martinez,P. Martinez,Hard,2,0.5250969,0.4749031,E. Ruusuvuori
+69,2021,ausopen,70,A. Bublik,D. Lajovic,D. Lajovic,Hard,2,0.4424296,0.5575704,D. Lajovic
+70,2021,ausopen,71,A. Mannarino,M. Kecmanovic,A. Mannarino,Hard,2,0.4464152,0.5535848,M. Kecmanovic
+71,2021,ausopen,72,M. Cressy,A. Zverev,A. Zverev,Hard,2,0.41446102,0.585539,A. Zverev
+72,2021,ausopen,73,D. Thiem,D. Koepfer,D. Thiem,Hard,2,0.7267928,0.2732072,D. Thiem
+73,2021,ausopen,74,N. Kyrgios,U. Humbert,N. Kyrgios,Hard,2,0.63701636,0.36298364,N. Kyrgios
+74,2021,ausopen,75,G. Dimitrov,A. Bolt,G. Dimitrov,Hard,2,0.6243415,0.3756585,G. Dimitrov
+75,2021,ausopen,76,J. Vesely,P. Carreno Busta,P. Carreno Busta,Hard,2,0.19215897,0.80784106,P. Carreno Busta
+76,2021,ausopen,77,D. Shapovalov,B. Tomic,D. Shapovalov,Hard,2,0.8440175,0.1559825,D. Shapovalov
+77,2021,ausopen,78,J. Duckworth,F. Auger Aliassime,F. Auger Aliassime,Hard,2,0.2664845,0.7335155,F. Auger Aliassime
+78,2021,ausopen,79,E. Gerasimov,A. Karatsev,A. Karatsev,Hard,2,0.18399727,0.8160027,A. Karatsev
+79,2021,ausopen,80,A. Muller,D. Schwartzman,D. Schwartzman,Hard,2,0.02345729,0.9765427,D. Schwartzman
+80,2021,ausopen,81,A. Rublev,T. Monteiro,A. Rublev,Hard,2,0.77181506,0.22818494,A. Rublev
+81,2021,ausopen,82,F. Lopez,L. Sonego,F. Lopez,Hard,2,0.5010835,0.4989165,F. Lopez
+82,2021,ausopen,83,C. Ruud,T. Paul,C. Ruud,Hard,2,0.59575224,0.40424776,C. Ruud
+83,2021,ausopen,84,C. OConnell,R. Albot,R. Albot,Hard,2,0.4764946,0.5235054,R. Albot
+84,2021,ausopen,85,A. Popyrin,L. Harris,L. Harris,Hard,2,0.71810824,0.28189176,A. Popyrin
+85,2021,ausopen,86,M. McDonald,B. Coric,M. McDonald,Hard,2,0.29842478,0.7015752,B. Coric
+86,2021,ausopen,87,F. Krajinovic,P. Andujar,F. Krajinovic,Hard,2,0.5328896,0.4671104,F. Krajinovic
+87,2021,ausopen,88,R. Carballes Baena,D. Medvedev,D. Medvedev,Hard,2,0.1255869,0.87441313,D. Medvedev
+88,2021,ausopen,89,S. Tsitsipas,T. Kokkinakis,S. Tsitsipas,Hard,2,0.52294844,0.47705156,S. Tsitsipas
+89,2021,ausopen,90,C. Alcaraz Garfia,M. Ymer,M. Ymer,Hard,2,0.03610835,0.9638916,M. Ymer
+90,2021,ausopen,91,K. Khachanov,R. Berankis,K. Khachanov,Hard,2,0.50465345,0.49534655,K. Khachanov
+91,2021,ausopen,92,T. Machac,M. Berrettini,M. Berrettini,Hard,2,0.02072761,0.97927237,M. Berrettini
+92,2021,ausopen,93,F. Fognini,S. Caruso,F. Fognini,Hard,2,0.57562447,0.42437553,F. Fognini
+93,2021,ausopen,94,P. Cuevas,A. de Minaur,A. de Minaur,Hard,2,0.3740519,0.6259481,A. de Minaur
+94,2021,ausopen,95,C. Norrie,R. Safiullin,C. Norrie,Hard,2,0.8775572,0.12244278,C. Norrie
+95,2021,ausopen,96,M. Mmoh,R. Nadal,R. Nadal,Hard,2,0.11047626,0.88952374,R. Nadal
+96,2021,ausopen,97,N. Djokovic,T. Fritz,N. Djokovic,Hard,3,0.7717986,0.22820139,N. Djokovic
+97,2021,ausopen,98,M. Fucsovics,M. Raonic,M. Raonic,Hard,3,0.3275239,0.6724761,M. Raonic
+98,2021,ausopen,99,P. Martinez,D. Lajovic,D. Lajovic,Hard,3,0.4278422,0.5721578,D. Lajovic
+99,2021,ausopen,100,A. Mannarino,A. Zverev,A. Mannarino,Hard,3,0.21902797,0.780972,A. Zverev
+100,2021,ausopen,101,D. Thiem,N. Kyrgios,D. Thiem,Hard,3,0.60597587,0.39402413,D. Thiem
+101,2021,ausopen,102,G. Dimitrov,P. Carreno Busta,G. Dimitrov,Hard,3,0.44295052,0.5570495,P. Carreno Busta
+102,2021,ausopen,103,D. Shapovalov,F. Auger Aliassime,F. Auger Aliassime,Hard,3,0.58140767,0.41859233,D. Shapovalov
+103,2021,ausopen,104,A. Karatsev,D. Schwartzman,A. Karatsev,Hard,3,0.6200175,0.37998247,A. Karatsev
+104,2021,ausopen,105,A. Rublev,F. Lopez,A. Rublev,Hard,3,0.72309995,0.27690005,A. Rublev
+105,2021,ausopen,106,C. Ruud,R. Albot,C. Ruud,Hard,3,0.6071666,0.3928334,C. Ruud
+106,2021,ausopen,107,L. Harris,M. McDonald,M. McDonald,Hard,3,0.6048409,0.39515913,L. Harris
+107,2021,ausopen,108,F. Krajinovic,D. Medvedev,D. Medvedev,Hard,3,0.19311234,0.8068876,D. Medvedev
+108,2021,ausopen,109,S. Tsitsipas,M. Ymer,S. Tsitsipas,Hard,3,0.6274655,0.3725345,S. Tsitsipas
+109,2021,ausopen,110,K. Khachanov,M. Berrettini,M. Berrettini,Hard,3,0.38579094,0.61420906,M. Berrettini
+110,2021,ausopen,111,F. Fognini,A. de Minaur,F. Fognini,Hard,3,0.43679953,0.5632005,A. de Minaur
+111,2021,ausopen,112,C. Norrie,R. Nadal,R. Nadal,Hard,3,0.10012966,0.89987034,R. Nadal
+112,2021,ausopen,113,N. Djokovic,M. Raonic,N. Djokovic,Hard,4,0.64749235,0.35250765,N. Djokovic
+113,2021,ausopen,114,D. Lajovic,A. Zverev,A. Zverev,Hard,4,0.23782384,0.76217616,A. Zverev
+114,2021,ausopen,115,D. Thiem,G. Dimitrov,G. Dimitrov,Hard,4,0.60081303,0.39918697,D. Thiem
+115,2021,ausopen,116,F. Auger Aliassime,A. Karatsev,A. Karatsev,Hard,4,0.21811274,0.7818873,A. Karatsev
+116,2021,ausopen,117,A. Rublev,C. Ruud,A. Rublev,Hard,4,0.63822126,0.36177874,A. Rublev
+117,2021,ausopen,118,M. McDonald,D. Medvedev,D. Medvedev,Hard,4,0.14676696,0.85323304,D. Medvedev
+118,2021,ausopen,119,S. Tsitsipas,M. Berrettini,S. Tsitsipas,Hard,4,0.47565398,0.524346,M. Berrettini
+119,2021,ausopen,120,F. Fognini,R. Nadal,R. Nadal,Hard,4,0.16519508,0.8348049,R. Nadal
+120,2021,ausopen,121,N. Djokovic,A. Zverev,N. Djokovic,Hard,5,0.66308725,0.33691275,N. Djokovic
+121,2021,ausopen,122,G. Dimitrov,A. Karatsev,A. Karatsev,Hard,5,0.27989048,0.7201095,A. Karatsev
+122,2021,ausopen,123,A. Rublev,D. Medvedev,D. Medvedev,Hard,5,0.34578162,0.6542184,D. Medvedev
+123,2021,ausopen,124,S. Tsitsipas,R. Nadal,S. Tsitsipas,Hard,5,0.23183352,0.7681665,R. Nadal
+124,2021,ausopen,125,N. Djokovic,A. Karatsev,N. Djokovic,Hard,6,0.587677,0.412323,N. Djokovic
+125,2021,ausopen,126,S. Tsitsipas,D. Medvedev,D. Medvedev,Hard,6,0.31032902,0.689671,D. Medvedev
+126,2021,ausopen,127,N. Djokovic,D. Medvedev,N. Djokovic,Hard,7,0.5537915,0.44620848,N. Djokovic
+127,2021,frenchopen,1,N. Djokovic,T. Sandgren,N. Djokovic,Clay,1,0.706524,0.293476,N. Djokovic
+128,2021,frenchopen,2,L. Pouille,P. Cuevas,P. Cuevas,Clay,1,0.4635046,0.5364954,P. Cuevas
+129,2021,frenchopen,3,S. Caruso,J. Duckworth,J. Duckworth,Clay,1,0.5003611,0.49963892,S. Caruso
+130,2021,frenchopen,4,R. Berankis,U. Humbert,U. Humbert,Clay,1,0.4484797,0.5515203,U. Humbert
+131,2021,frenchopen,5,A. De Minaur,S. Travaglia,A. De Minaur,Clay,1,0.42190036,0.5780996,S. Travaglia
+132,2021,frenchopen,6,Y. Uchiyama,M. Cecchinato,M. Cecchinato,Clay,1,0.13988337,0.8601166,M. Cecchinato
+133,2021,frenchopen,7,J. Tsonga,Y. Nishioka,Y. Nishioka,Clay,1,0.65664506,0.34335494,J. Tsonga
+134,2021,frenchopen,8,L. Musetti,D. Goffin,L. Musetti,Clay,1,0.02570823,0.9742918,D. Goffin
+135,2021,frenchopen,9,M. Berrettini,T. Daniel,M. Berrettini,Clay,1,0.5352936,0.46470642,M. Berrettini
+136,2021,frenchopen,10,F. Coria,F. Lopez,F. Coria,Clay,1,0.02729207,0.9727079,F. Lopez
+137,2021,frenchopen,11,K. Anderson,S. Kwon,S. Kwon,Clay,1,0.9366411,0.0633589,K. Anderson
+138,2021,frenchopen,12,A. Seppi,F. Auger Aliassime,A. Seppi,Clay,1,0.7154858,0.2845142,A. Seppi
+139,2021,frenchopen,13,T. Fritz,J. Sousa,T. Fritz,Clay,1,0.04525009,0.95474994,J. Sousa
+140,2021,frenchopen,14,M. Bourgue,D. Koepfer,D. Koepfer,Clay,1,0.8188255,0.18117452,M. Bourgue
+141,2021,frenchopen,15,M. Cilic,A. Rinderknech,M. Cilic,Clay,1,0.9467078,0.05329222,M. Cilic
+142,2021,frenchopen,16,D. Istomin,R. Federer,R. Federer,Clay,1,0.29379267,0.70620733,R. Federer
+143,2021,frenchopen,17,R. Nadal,A. Popyrin,R. Nadal,Clay,1,0.9768696,0.02313042,R. Nadal
+144,2021,frenchopen,18,H. Gaston,R. Gasquet,R. Gasquet,Clay,1,0.1605849,0.8394151,R. Gasquet
+145,2021,frenchopen,19,C. Norrie,B. Fratangelo,C. Norrie,Clay,1,0.36694735,0.63305265,B. Fratangelo
+146,2021,frenchopen,20,L. Harris,L. Sonego,L. Harris,Clay,1,0.30424726,0.69575274,L. Sonego
+147,2021,frenchopen,21,J. Sinner,P. Herbert,J. Sinner,Clay,1,0.3457812,0.6542188,P. Herbert
+148,2021,frenchopen,22,G. Mager,P. Gojowczyk,G. Mager,Clay,1,0.05466694,0.94533306,P. Gojowczyk
+149,2021,frenchopen,23,M. Ymer,R. Carballes Baena,M. Ymer,Clay,1,0.5049767,0.4950233,M. Ymer
+150,2021,frenchopen,24,A. Ramos,G. Monfils,G. Monfils,Clay,1,0.2962005,0.7037995,G. Monfils
+151,2021,frenchopen,25,D. Schwartzman,Y. Lu,D. Schwartzman,Clay,1,0.5908342,0.4091658,D. Schwartzman
+152,2021,frenchopen,26,A. Mannarino,A. Bedene,A. Bedene,Clay,1,0.4648443,0.5351557,A. Bedene
+153,2021,frenchopen,27,P. Kohlschreiber,F. Verdasco,P. Kohlschreiber,Clay,1,0.47798118,0.5220188,F. Verdasco
+154,2021,frenchopen,28,J. Brooksby,A. Karatsev,A. Karatsev,Clay,1,0.30416006,0.69583994,A. Karatsev
+155,2021,frenchopen,29,N. Basilashvili,D. Lajovic,N. Basilashvili,Clay,1,0.52315545,0.47684455,N. Basilashvili
+156,2021,frenchopen,30,C. Alcaraz Garfia,B. Zapata Miralles,C. Alcaraz Garfia,Clay,1,0.32496518,0.6750348,B. Zapata Miralles
+157,2021,frenchopen,31,F. Bagnis,B. Bonzi,F. Bagnis,Clay,1,0.568801,0.431199,F. Bagnis
+158,2021,frenchopen,32,J. Struff,A. Rublev,J. Struff,Clay,1,0.398354,0.601646,A. Rublev
+159,2021,frenchopen,33,A. Zverev,O. Otte,A. Zverev,Clay,1,0.4802622,0.51973784,O. Otte
+160,2021,frenchopen,34,R. Safiullin,C. Taberner,R. Safiullin,Clay,1,0.09270212,0.90729785,C. Taberner
+161,2021,frenchopen,35,C. Moutet,L. Djere,L. Djere,Clay,1,0.5655187,0.43448132,C. Moutet
+162,2021,frenchopen,36,M. Kecmanovic,D. Evans,M. Kecmanovic,Clay,1,0.23287845,0.76712155,D. Evans
+163,2021,frenchopen,37,K. Khachanov,J. Vesely,K. Khachanov,Clay,1,0.53537893,0.46462107,K. Khachanov
+164,2021,frenchopen,38,K. Nishikori,A. Giannessi,K. Nishikori,Clay,1,0.7046039,0.2953961,K. Nishikori
+165,2021,frenchopen,39,Y. Hanfmann,H. Laaksonen,H. Laaksonen,Clay,1,0.41857868,0.5814213,H. Laaksonen
+166,2021,frenchopen,40,M. Vilella Martinez,R. Bautista Agut,R. Bautista Agut,Clay,1,0.24241057,0.75758946,R. Bautista Agut
+167,2021,frenchopen,41,C. Ruud,B. Paire,C. Ruud,Clay,1,0.4648405,0.53515947,B. Paire
+168,2021,frenchopen,42,K. Majchrzak,A. Cazaux,K. Majchrzak,Clay,1,0.86498034,0.13501966,K. Majchrzak
+169,2021,frenchopen,43,A. Davidovich Fokina,M. Kukushkin,A. Davidovich Fokina,Clay,1,0.42307776,0.57692224,M. Kukushkin
+170,2021,frenchopen,44,B. Van De Zandschulp,H. Hurkacz,B. Van De Zandschulp,Clay,1,0.04804131,0.95195866,H. Hurkacz
+171,2021,frenchopen,45,F. Fognini,G. Barrere,F. Fognini,Clay,1,0.5742769,0.42572308,F. Fognini
+172,2021,frenchopen,46,M. Fucsovics,G. Simon,M. Fucsovics,Clay,1,0.42099813,0.5790019,G. Simon
+173,2021,frenchopen,47,R. Albot,F. Delbonis,F. Delbonis,Clay,1,0.49416438,0.50583565,F. Delbonis
+174,2021,frenchopen,48,P. Andujar,D. Thiem,P. Andujar,Clay,1,0.30064023,0.6993598,D. Thiem
+175,2021,frenchopen,49,S. Tsitsipas,J. Chardy,S. Tsitsipas,Clay,1,0.6555468,0.34445322,S. Tsitsipas
+176,2021,frenchopen,50,S. Korda,P. Martinez,P. Martinez,Clay,1,0.32631892,0.6736811,P. Martinez
+177,2021,frenchopen,51,M. Marterer,F. Krajinovic,F. Krajinovic,Clay,1,0.58383155,0.41616845,M. Marterer
+178,2021,frenchopen,52,S. Querrey,J. Isner,J. Isner,Clay,1,0.40927303,0.590727,J. Isner
+179,2021,frenchopen,53,F. Cerundolo,T. Monteiro,T. Monteiro,Clay,1,0.04641762,0.9535824,T. Monteiro
+180,2021,frenchopen,54,S. Johnson,F. Tiafoe,S. Johnson,Clay,1,0.5554933,0.4445067,S. Johnson
+181,2021,frenchopen,55,E. Gerasimov,E. Couacaud,E. Couacaud,Clay,1,0.8754945,0.12450552,E. Gerasimov
+182,2021,frenchopen,56,N. Gombos,P. Carreno Busta,P. Carreno Busta,Clay,1,0.303884,0.696116,P. Carreno Busta
+183,2021,frenchopen,57,G. Dimitrov,M. Giron,M. Giron,Clay,1,0.87537706,0.12462294,G. Dimitrov
+184,2021,frenchopen,58,G. Pella,D. Galan,G. Pella,Clay,1,0.91826737,0.08173263,G. Pella
+185,2021,frenchopen,59,E. Ruusuvuori,M. Mcdonald,M. Mcdonald,Clay,1,0.04681912,0.9531809,M. Mcdonald
+186,2021,frenchopen,60,J. Londero,C. Garin,C. Garin,Clay,1,0.43568078,0.56431925,C. Garin
+187,2021,frenchopen,61,R. Opelka,A. Martin,R. Opelka,Clay,1,0.52346855,0.47653145,R. Opelka
+188,2021,frenchopen,62,J. Munar,J. Thompson,J. Munar,Clay,1,0.35279876,0.64720124,J. Thompson
+189,2021,frenchopen,63,T. Paul,C. OConnell,T. Paul,Clay,1,0.72100306,0.27899694,T. Paul
+190,2021,frenchopen,64,A. Bublik,D. Medvedev,D. Medvedev,Clay,1,0.22621998,0.77378,D. Medvedev
+191,2021,frenchopen,65,N. Djokovic,P. Cuevas,N. Djokovic,Clay,2,0.78784233,0.21215767,N. Djokovic
+192,2021,frenchopen,66,J. Duckworth,R. Berankis,R. Berankis,Clay,2,0.4037015,0.59629846,R. Berankis
+193,2021,frenchopen,67,A. De Minaur,M. Cecchinato,M. Cecchinato,Clay,2,0.3829692,0.6170308,M. Cecchinato
+194,2021,frenchopen,68,Y. Nishioka,L. Musetti,L. Musetti,Clay,2,0.8929733,0.1070267,Y. Nishioka
+195,2021,frenchopen,69,M. Berrettini,F. Coria,M. Berrettini,Clay,2,0.91477966,0.08522034,M. Berrettini
+196,2021,frenchopen,70,S. Kwon,A. Seppi,S. Kwon,Clay,2,0.02855787,0.9714421,A. Seppi
+197,2021,frenchopen,71,T. Fritz,D. Koepfer,D. Koepfer,Clay,2,0.11910427,0.88089573,D. Koepfer
+198,2021,frenchopen,72,M. Cilic,R. Federer,R. Federer,Clay,2,0.3611688,0.6388312,R. Federer
+199,2021,frenchopen,73,R. Nadal,R. Gasquet,R. Nadal,Clay,2,0.65136755,0.34863245,R. Nadal
+200,2021,frenchopen,74,C. Norrie,L. Harris,C. Norrie,Clay,2,0.4734857,0.5265143,L. Harris
+201,2021,frenchopen,75,J. Sinner,G. Mager,J. Sinner,Clay,2,0.8873849,0.11261511,J. Sinner
+202,2021,frenchopen,76,M. Ymer,G. Monfils,M. Ymer,Clay,2,0.28270698,0.717293,G. Monfils
+203,2021,frenchopen,77,D. Schwartzman,A. Bedene,D. Schwartzman,Clay,2,0.54711306,0.45288694,D. Schwartzman
+204,2021,frenchopen,78,P. Kohlschreiber,A. Karatsev,P. Kohlschreiber,Clay,2,0.9208188,0.07918119,P. Kohlschreiber
+205,2021,frenchopen,79,N. Basilashvili,C. Alcaraz Garfia,C. Alcaraz Garfia,Clay,2,0.906863,0.09313703,N. Basilashvili
+206,2021,frenchopen,80,F. Bagnis,J. Struff,J. Struff,Clay,2,0.52516204,0.47483796,F. Bagnis
+207,2021,frenchopen,81,A. Zverev,R. Safiullin,A. Zverev,Clay,2,0.95151085,0.04848915,A. Zverev
+208,2021,frenchopen,82,L. Djere,M. Kecmanovic,L. Djere,Clay,2,0.54018456,0.45981544,L. Djere
+209,2021,frenchopen,83,K. Khachanov,K. Nishikori,K. Nishikori,Clay,2,0.41851276,0.58148724,K. Nishikori
+210,2021,frenchopen,84,H. Laaksonen,R. Bautista Agut,H. Laaksonen,Clay,2,0.39601308,0.6039869,R. Bautista Agut
+211,2021,frenchopen,85,C. Ruud,K. Majchrzak,C. Ruud,Clay,2,0.57231444,0.42768556,C. Ruud
+212,2021,frenchopen,86,A. Davidovich Fokina,B. Van De Zandschulp,A. Davidovich Fokina,Clay,2,0.8909863,0.10901368,A. Davidovich Fokina
+213,2021,frenchopen,87,F. Fognini,M. Fucsovics,F. Fognini,Clay,2,0.48853564,0.51146436,M. Fucsovics
+214,2021,frenchopen,88,F. Delbonis,P. Andujar,F. Delbonis,Clay,2,0.42445916,0.57554084,P. Andujar
+215,2021,frenchopen,89,S. Tsitsipas,P. Martinez,S. Tsitsipas,Clay,2,0.94696164,0.05303836,S. Tsitsipas
+216,2021,frenchopen,90,F. Krajinovic,J. Isner,J. Isner,Clay,2,0.25991783,0.74008214,J. Isner
+217,2021,frenchopen,91,T. Monteiro,S. Johnson,S. Johnson,Clay,2,0.35605443,0.6439456,S. Johnson
+218,2021,frenchopen,92,E. Couacaud,P. Carreno Busta,P. Carreno Busta,Clay,2,0.02190256,0.97809744,P. Carreno Busta
+219,2021,frenchopen,93,M. Giron,G. Pella,M. Giron,Clay,2,0.13541847,0.8645815,G. Pella
+220,2021,frenchopen,94,M. Mcdonald,C. Garin,C. Garin,Clay,2,0.49225834,0.5077417,C. Garin
+221,2021,frenchopen,95,R. Opelka,J. Munar,R. Opelka,Clay,2,0.50987273,0.49012727,R. Opelka
+222,2021,frenchopen,96,T. Paul,D. Medvedev,D. Medvedev,Clay,2,0.2673825,0.7326175,D. Medvedev
+223,2021,frenchopen,97,N. Djokovic,R. Berankis,N. Djokovic,Clay,3,0.79444826,0.20555174,N. Djokovic
+224,2021,frenchopen,98,M. Cecchinato,L. Musetti,L. Musetti,Clay,3,0.9010546,0.09894538,M. Cecchinato
+225,2021,frenchopen,99,M. Berrettini,S. Kwon,M. Berrettini,Clay,3,0.91019076,0.08980924,M. Berrettini
+226,2021,frenchopen,100,D. Koepfer,R. Federer,R. Federer,Clay,3,0.08555743,0.91444254,R. Federer
+227,2021,frenchopen,101,R. Nadal,C. Norrie,R. Nadal,Clay,3,0.8776398,0.12236023,R. Nadal
+228,2021,frenchopen,102,J. Sinner,M. Ymer,J. Sinner,Clay,3,0.376287,0.623713,M. Ymer
+229,2021,frenchopen,103,D. Schwartzman,P. Kohlschreiber,D. Schwartzman,Clay,3,0.47534811,0.5246519,P. Kohlschreiber
+230,2021,frenchopen,104,C. Alcaraz Garfia,J. Struff,J. Struff,Clay,3,0.03990394,0.96009606,J. Struff
+231,2021,frenchopen,105,A. Zverev,L. Djere,A. Zverev,Clay,3,0.71462,0.28538,A. Zverev
+232,2021,frenchopen,106,K. Nishikori,H. Laaksonen,K. Nishikori,Clay,3,0.5299701,0.4700299,K. Nishikori
+233,2021,frenchopen,107,C. Ruud,A. Davidovich Fokina,A. Davidovich Fokina,Clay,3,0.47725117,0.5227488,A. Davidovich Fokina
+234,2021,frenchopen,108,F. Fognini,F. Delbonis,F. Delbonis,Clay,3,0.5827931,0.41720688,F. Fognini
+235,2021,frenchopen,109,S. Tsitsipas,J. Isner,S. Tsitsipas,Clay,3,0.40930623,0.5906938,J. Isner
+236,2021,frenchopen,110,S. Johnson,P. Carreno Busta,P. Carreno Busta,Clay,3,0.4023615,0.5976385,P. Carreno Busta
+237,2021,frenchopen,111,M. Giron,C. Garin,C. Garin,Clay,3,0.1746893,0.8253107,C. Garin
+238,2021,frenchopen,112,R. Opelka,D. Medvedev,D. Medvedev,Clay,3,0.22549564,0.77450436,D. Medvedev
+239,2021,frenchopen,113,N. Djokovic,L. Musetti,N. Djokovic,Clay,4,0.9743087,0.02569127,N. Djokovic
+240,2021,frenchopen,114,M. Berrettini,R. Federer,M. Berrettini,Clay,4,0.24540603,0.75459397,R. Federer
+241,2021,frenchopen,115,R. Nadal,J. Sinner,R. Nadal,Clay,4,0.8031633,0.19683671,R. Nadal
+242,2021,frenchopen,116,D. Schwartzman,J. Struff,D. Schwartzman,Clay,4,0.54039776,0.45960224,D. Schwartzman
+243,2021,frenchopen,117,A. Zverev,K. Nishikori,A. Zverev,Clay,4,0.49224594,0.5077541,K. Nishikori
+244,2021,frenchopen,118,A. Davidovich Fokina,F. Delbonis,A. Davidovich Fokina,Clay,4,0.46116525,0.53883475,F. Delbonis
+245,2021,frenchopen,119,S. Tsitsipas,P. Carreno Busta,S. Tsitsipas,Clay,4,0.44749957,0.5525004,P. Carreno Busta
+246,2021,frenchopen,120,C. Garin,D. Medvedev,D. Medvedev,Clay,4,0.19969887,0.80030113,D. Medvedev
+247,2021,frenchopen,121,N. Djokovic,M. Berrettini,N. Djokovic,Clay,5,0.7626593,0.23734069,N. Djokovic
+248,2021,frenchopen,122,R. Nadal,D. Schwartzman,R. Nadal,Clay,5,0.6875412,0.3124588,R. Nadal
+249,2021,frenchopen,123,A. Zverev,A. Davidovich Fokina,A. Zverev,Clay,5,0.6161536,0.3838464,A. Zverev
+250,2021,frenchopen,124,S. Tsitsipas,D. Medvedev,S. Tsitsipas,Clay,5,0.36313915,0.63686085,D. Medvedev
+251,2021,frenchopen,125,N. Djokovic,R. Nadal,N. Djokovic,Clay,6,0.45252895,0.54747105,R. Nadal
+252,2021,frenchopen,126,A. Zverev,S. Tsitsipas,S. Tsitsipas,Clay,6,0.45850274,0.54149723,S. Tsitsipas
+253,2021,frenchopen,127,N. Djokovic,S. Tsitsipas,N. Djokovic,Clay,7,0.6395265,0.3604735,N. Djokovic
+254,2021,wimbledon,1,N. Djokovic,J. Draper,N. Djokovic,Grass,1,0.98,0.02,N. Djokovic
+255,2021,wimbledon,2,M. Barrios Vera,K. Anderson,K. Anderson,Grass,1,0.02,0.98,K. Anderson
+256,2021,wimbledon,3,A. Seppi,J. Sousa,A. Seppi,Grass,1,0.53,0.47,A. Seppi
+257,2021,wimbledon,4,D. Kudla,A. Davidovich Fokina,D. Kudla,Grass,1,0.44,0.56,A. Davidovich Fokina
+258,2021,wimbledon,5,C. Garin,B. Zapata Miralles,C. Garin,Grass,1,0.72,0.28,C. Garin
+259,2021,wimbledon,6,M. Polmans,Y. Lu,M. Polmans,Grass,1,0.51,0.49,M. Polmans
+260,2021,wimbledon,7,P. Martinez,S. Travaglia,P. Martinez,Grass,1,0.06,0.94,S. Travaglia
+261,2021,wimbledon,8,C. OConnell,G. Monfils,G. Monfils,Grass,1,0.18,0.82,G. Monfils
+262,2021,wimbledon,9,D. Schwartzman,B. Paire,D. Schwartzman,Grass,1,0.53,0.47,D. Schwartzman
+263,2021,wimbledon,10,M. Cecchinato,L. Broady,L. Broady,Grass,1,0.7,0.3,M. Cecchinato
+264,2021,wimbledon,11,J. Vesely,Y. Hanfmann,J. Vesely,Grass,1,0.76,0.24,J. Vesely
+265,2021,wimbledon,12,M. Fucsovics,J. Sinner,M. Fucsovics,Grass,1,0.44,0.56,J. Sinner
+266,2021,wimbledon,13,F. Fognini,A. Ramos,F. Fognini,Grass,1,0.54,0.46,F. Fognini
+267,2021,wimbledon,14,P. Cuevas,L. Djere,L. Djere,Grass,1,0.57,0.43,P. Cuevas
+268,2021,wimbledon,15,L. Harris,R. Berankis,L. Harris,Grass,1,0.46,0.54,R. Berankis
+269,2021,wimbledon,16,F. Delbonis,A. Rublev,A. Rublev,Grass,1,0.23,0.77,A. Rublev
+270,2021,wimbledon,17,S. Tsitsipas,F. Tiafoe,F. Tiafoe,Grass,1,0.7,0.3,S. Tsitsipas
+271,2021,wimbledon,18,R. Carballes Baena,V. Pospisil,V. Pospisil,Grass,1,0.49,0.51,V. Pospisil
+272,2021,wimbledon,19,E. Gerasimov,J. Clarke,E. Gerasimov,Grass,1,0.87,0.13,E. Gerasimov
+273,2021,wimbledon,20,M. McDonald,K. Khachanov,K. Khachanov,Grass,1,0.03,0.97,K. Khachanov
+274,2021,wimbledon,21,D. Evans,F. Lopez,D. Evans,Grass,1,0.53,0.47,D. Evans
+275,2021,wimbledon,22,D. Lajovic,G. Simon,D. Lajovic,Grass,1,0.44,0.56,G. Simon
+276,2021,wimbledon,23,Z. Zhang,A. Hoang,A. Hoang,Grass,1,0.05,0.95,A. Hoang
+277,2021,wimbledon,24,S. Korda,A. de Minaur,S. Korda,Grass,1,0.44,0.56,A. de Minaur
+278,2021,wimbledon,25,D. Shapovalov,P. Kohlschreiber,D. Shapovalov,Grass,1,0.59,0.41,D. Shapovalov
+279,2021,wimbledon,26,P. Herbert,P. Andujar,P. Andujar,Grass,1,0.6,0.4,P. Herbert
+280,2021,wimbledon,27,O. Otte,A. Rinderknech,O. Otte,Grass,1,0.64,0.36,O. Otte
+281,2021,wimbledon,28,A. Murray,N. Basilashvili,A. Murray,Grass,1,0.73,0.27,A. Murray
+282,2021,wimbledon,29,R. Opelka,D. Koepfer,D. Koepfer,Grass,1,0.5,0.5,D. Koepfer
+283,2021,wimbledon,30,S. Kwon,D. Masur,S. Kwon,Grass,1,0.87,0.13,S. Kwon
+284,2021,wimbledon,31,F. Bagnis,M. Kecmanovic,M. Kecmanovic,Grass,1,0.34,0.66,M. Kecmanovic
+285,2021,wimbledon,32,J. Millman,R. Bautista Agut,R. Bautista Agut,Grass,1,0.32,0.68,R. Bautista Agut
+286,2021,wimbledon,33,M. Berrettini,G. Pella,M. Berrettini,Grass,1,0.63,0.37,M. Berrettini
+287,2021,wimbledon,34,B. van de Zandschulp,G. Barrere,B. van de Zandschulp,Grass,1,0.56,0.44,B. van de Zandschulp
+288,2021,wimbledon,35,C. Moutet,A. Bedene,A. Bedene,Grass,1,0.49,0.51,A. Bedene
+289,2021,wimbledon,36,Y. Nishioka,J. Isner,Y. Nishioka,Grass,1,0.2,0.8,J. Isner
+290,2021,wimbledon,37,A. Karatsev,J. Chardy,J. Chardy,Grass,1,0.5,0.5,J. Chardy
+291,2021,wimbledon,38,J. Munar,I. Ivashka,I. Ivashka,Grass,1,0.49,0.51,I. Ivashka
+292,2021,wimbledon,39,K. Nishikori,A. Popyrin,K. Nishikori,Grass,1,0.61,0.39,K. Nishikori
+293,2021,wimbledon,40,J. Thompson,C. Ruud,J. Thompson,Grass,1,0.89,0.11,J. Thompson
+294,2021,wimbledon,41,F. Auger Aliassime,T. Monteiro,F. Auger Aliassime,Grass,1,0.53,0.47,F. Auger Aliassime
+295,2021,wimbledon,42,J. Tsonga,M. Ymer,M. Ymer,Grass,1,0.69,0.31,J. Tsonga
+296,2021,wimbledon,43,J. Londero,G. Mager,G. Mager,Grass,1,0.55,0.45,J. Londero
+297,2021,wimbledon,44,N. Kyrgios,U. Humbert,N. Kyrgios,Grass,1,0.66,0.34,N. Kyrgios
+298,2021,wimbledon,45,T. Fritz,B. Nakashima,T. Fritz,Grass,1,0.42,0.58,B. Nakashima
+299,2021,wimbledon,46,S. Johnson,D. Novak,S. Johnson,Grass,1,0.92,0.08,S. Johnson
+300,2021,wimbledon,47,T. Sandgren,N. Gombos,T. Sandgren,Grass,1,0.56,0.44,T. Sandgren
+301,2021,wimbledon,48,T. Griekspoor,A. Zverev,A. Zverev,Grass,1,0.11,0.89,A. Zverev
+302,2021,wimbledon,49,R. Federer,A. Mannarino,R. Federer,Grass,1,0.82,0.18,R. Federer
+303,2021,wimbledon,50,R. Gasquet,Y. Sugita,R. Gasquet,Grass,1,0.64,0.36,R. Gasquet
+304,2021,wimbledon,51,F. Krajinovic,A. Bolt,A. Bolt,Grass,1,0.57,0.43,F. Krajinovic
+305,2021,wimbledon,52,L. Pouille,C. Norrie,C. Norrie,Grass,1,0.6,0.4,L. Pouille
+306,2021,wimbledon,53,L. Sonego,P. Sousa,L. Sonego,Grass,1,0.69,0.31,L. Sonego
+307,2021,wimbledon,54,D. Galan,F. Coria,D. Galan,Grass,1,0.44,0.56,F. Coria
+308,2021,wimbledon,55,J. Duckworth,R. Albot,J. Duckworth,Grass,1,0.32,0.68,R. Albot
+309,2021,wimbledon,56,S. Querrey,P. Carreno Busta,S. Querrey,Grass,1,0.5,0.5,P. Carreno Busta
+310,2021,wimbledon,57,H. Hurkacz,L. Musetti,H. Hurkacz,Grass,1,0.501,0.5,H. Hurkacz
+311,2021,wimbledon,58,E. Ruusuvuori,M. Giron,M. Giron,Grass,1,0.49,0.51,M. Giron
+312,2021,wimbledon,59,M. Kukushkin,A. Bublik,A. Bublik,Grass,1,0.48,0.52,A. Bublik
+313,2021,wimbledon,60,F. Verdasco,G. Dimitrov,G. Dimitrov,Grass,1,0.4,0.6,G. Dimitrov
+314,2021,wimbledon,61,M. Cilic,S. Caruso,M. Cilic,Grass,1,0.7,0.3,M. Cilic
+315,2021,wimbledon,62,M. Trungelliti,B. Bonzi,B. Bonzi,Grass,1,0.51,0.49,M. Trungelliti
+316,2021,wimbledon,63,Y. Uchiyama,C. Alcaraz Garfia,C. Alcaraz Garfia,Grass,1,0.13,0.87,C. Alcaraz Garfia
+317,2021,wimbledon,64,J. Struff,D. Medvedev,D. Medvedev,Grass,1,0.3,0.7,D. Medvedev
+318,2021,wimbledon,65,N. Djokovic,K. Anderson,N. Djokovic,Grass,2,0.7096881,0.29031187,N. Djokovic
+319,2021,wimbledon,66,A. Seppi,D. Kudla,D. Kudla,Grass,2,0.40755278,0.5924472,D. Kudla
+320,2021,wimbledon,67,C. Garin,M. Polmans,C. Garin,Grass,2,0.39343378,0.6065662,M. Polmans
+321,2021,wimbledon,68,P. Martinez,G. Monfils,P. Martinez,Grass,2,0.01873919,0.9812608,G. Monfils
+322,2021,wimbledon,69,D. Schwartzman,L. Broady,D. Schwartzman,Grass,2,0.7901692,0.20983082,D. Schwartzman
+323,2021,wimbledon,70,J. Vesely,M. Fucsovics,M. Fucsovics,Grass,2,0.38632676,0.6136732,M. Fucsovics
+324,2021,wimbledon,71,F. Fognini,L. Djere,F. Fognini,Grass,2,0.62339807,0.37660193,F. Fognini
+325,2021,wimbledon,72,L. Harris,A. Rublev,A. Rublev,Grass,2,0.22069365,0.77930635,A. Rublev
+326,2021,wimbledon,73,F. Tiafoe,V. Pospisil,F. Tiafoe,Grass,2,0.54091024,0.45908976,F. Tiafoe
+327,2021,wimbledon,74,E. Gerasimov,K. Khachanov,K. Khachanov,Grass,2,0.28478003,0.71522,K. Khachanov
+328,2021,wimbledon,75,D. Evans,D. Lajovic,D. Evans,Grass,2,0.42085746,0.5791426,D. Lajovic
+329,2021,wimbledon,76,A. Hoang,S. Korda,S. Korda,Grass,2,0.31291342,0.6870866,S. Korda
+330,2021,wimbledon,77,D. Shapovalov,P. Andujar,D. Shapovalov,Grass,2,0.70324755,0.29675245,D. Shapovalov
+331,2021,wimbledon,78,O. Otte,A. Murray,A. Murray,Grass,2,0.23968819,0.76031184,A. Murray
+332,2021,wimbledon,79,D. Koepfer,S. Kwon,D. Koepfer,Grass,2,0.4297673,0.5702327,S. Kwon
+333,2021,wimbledon,80,M. Kecmanovic,R. Bautista Agut,R. Bautista Agut,Grass,2,0.2620522,0.7379478,R. Bautista Agut
+334,2021,wimbledon,81,M. Berrettini,B. van de Zandschulp,M. Berrettini,Grass,2,0.5261532,0.4738468,M. Berrettini
+335,2021,wimbledon,82,A. Bedene,Y. Nishioka,A. Bedene,Grass,2,0.39383367,0.60616636,Y. Nishioka
+336,2021,wimbledon,83,J. Chardy,I. Ivashka,I. Ivashka,Grass,2,0.54377156,0.45622844,J. Chardy
+337,2021,wimbledon,84,K. Nishikori,J. Thompson,J. Thompson,Grass,2,0.45989615,0.54010385,J. Thompson
+338,2021,wimbledon,85,F. Auger Aliassime,M. Ymer,F. Auger Aliassime,Grass,2,0.5099118,0.49008822,F. Auger Aliassime
+339,2021,wimbledon,86,G. Mager,N. Kyrgios,N. Kyrgios,Grass,2,0.22455609,0.7754439,N. Kyrgios
+340,2021,wimbledon,87,T. Fritz,S. Johnson,T. Fritz,Grass,2,0.41321492,0.5867851,S. Johnson
+341,2021,wimbledon,88,T. Sandgren,A. Zverev,A. Zverev,Grass,2,0.29559964,0.70440036,A. Zverev
+342,2021,wimbledon,89,R. Federer,R. Gasquet,R. Federer,Grass,2,0.5102228,0.4897772,R. Federer
+343,2021,wimbledon,90,A. Bolt,C. Norrie,C. Norrie,Grass,2,0.44781744,0.55218256,C. Norrie
+344,2021,wimbledon,91,L. Sonego,D. Galan,L. Sonego,Grass,2,0.37119377,0.62880623,D. Galan
+345,2021,wimbledon,92,J. Duckworth,S. Querrey,J. Duckworth,Grass,2,0.22333708,0.77666295,S. Querrey
+346,2021,wimbledon,93,H. Hurkacz,M. Giron,H. Hurkacz,Grass,2,0.5476329,0.45236713,H. Hurkacz
+347,2021,wimbledon,94,A. Bublik,G. Dimitrov,A. Bublik,Grass,2,0.32141727,0.6785827,G. Dimitrov
+348,2021,wimbledon,95,M. Cilic,B. Bonzi,M. Cilic,Grass,2,0.6950912,0.3049088,M. Cilic
+349,2021,wimbledon,96,C. Alcaraz Garfia,D. Medvedev,D. Medvedev,Grass,2,0.015764,0.984236,D. Medvedev
+350,2021,wimbledon,97,N. Djokovic,D. Kudla,N. Djokovic,Grass,3,0.8344088,0.16559118,N. Djokovic
+351,2021,wimbledon,98,C. Garin,P. Martinez,C. Garin,Grass,3,0.8904352,0.10956478,C. Garin
+352,2021,wimbledon,99,D. Schwartzman,M. Fucsovics,M. Fucsovics,Grass,3,0.50831777,0.49168223,D. Schwartzman
+353,2021,wimbledon,100,F. Fognini,A. Rublev,A. Rublev,Grass,3,0.3632397,0.6367603,A. Rublev
+354,2021,wimbledon,101,F. Tiafoe,K. Khachanov,K. Khachanov,Grass,3,0.35846153,0.6415385,K. Khachanov
+355,2021,wimbledon,102,D. Evans,S. Korda,S. Korda,Grass,3,0.4936552,0.5063448,S. Korda
+356,2021,wimbledon,103,D. Shapovalov,A. Murray,D. Shapovalov,Grass,3,0.32406962,0.6759304,A. Murray
+357,2021,wimbledon,104,D. Koepfer,R. Bautista Agut,R. Bautista Agut,Grass,3,0.28794038,0.7120596,R. Bautista Agut
+358,2021,wimbledon,105,M. Berrettini,A. Bedene,M. Berrettini,Grass,3,0.60091096,0.39908904,M. Berrettini
+359,2021,wimbledon,106,I. Ivashka,J. Thompson,I. Ivashka,Grass,3,0.32536533,0.6746347,J. Thompson
+360,2021,wimbledon,107,F. Auger Aliassime,N. Kyrgios,F. Auger Aliassime,Grass,3,0.29892343,0.70107657,N. Kyrgios
+361,2021,wimbledon,108,T. Fritz,A. Zverev,A. Zverev,Grass,3,0.35335815,0.64664185,A. Zverev
+362,2021,wimbledon,109,R. Federer,C. Norrie,R. Federer,Grass,3,0.83103204,0.16896796,R. Federer
+363,2021,wimbledon,110,L. Sonego,J. Duckworth,L. Sonego,Grass,3,0.60858464,0.39141536,L. Sonego
+364,2021,wimbledon,111,H. Hurkacz,A. Bublik,H. Hurkacz,Grass,3,0.4580112,0.5419888,A. Bublik
+365,2021,wimbledon,112,M. Cilic,D. Medvedev,D. Medvedev,Grass,3,0.39035296,0.60964704,D. Medvedev
+366,2021,wimbledon,113,N. Djokovic,C. Garin,N. Djokovic,Grass,4,0.8187666,0.1812334,N. Djokovic
+367,2021,wimbledon,114,M. Fucsovics,A. Rublev,M. Fucsovics,Grass,4,0.3112442,0.6887558,A. Rublev
+368,2021,wimbledon,115,K. Khachanov,S. Korda,K. Khachanov,Grass,4,0.5039993,0.4960007,K. Khachanov
+369,2021,wimbledon,116,D. Shapovalov,R. Bautista Agut,D. Shapovalov,Grass,4,0.37438643,0.6256136,R. Bautista Agut
+370,2021,wimbledon,117,M. Berrettini,I. Ivashka,M. Berrettini,Grass,4,0.7048706,0.29512942,M. Berrettini
+371,2021,wimbledon,118,F. Auger Aliassime,A. Zverev,F. Auger Aliassime,Grass,4,0.261531,0.738469,A. Zverev
+372,2021,wimbledon,119,R. Federer,L. Sonego,R. Federer,Grass,4,0.78462774,0.21537226,R. Federer
+373,2021,wimbledon,120,H. Hurkacz,D. Medvedev,H. Hurkacz,Grass,4,0.22544104,0.77455896,D. Medvedev
+374,2021,wimbledon,121,N. Djokovic,M. Fucsovics,N. Djokovic,Grass,5,0.7784504,0.22154957,N. Djokovic
+375,2021,wimbledon,122,K. Khachanov,D. Shapovalov,D. Shapovalov,Grass,5,0.43690887,0.56309116,D. Shapovalov
+376,2021,wimbledon,123,M. Berrettini,F. Auger Aliassime,M. Berrettini,Grass,5,0.5580454,0.4419546,M. Berrettini
+377,2021,wimbledon,124,R. Federer,H. Hurkacz,H. Hurkacz,Grass,5,0.7736399,0.22636008,R. Federer
+378,2021,wimbledon,125,N. Djokovic,D. Shapovalov,N. Djokovic,Grass,6,0.72394925,0.27605075,N. Djokovic
+379,2021,wimbledon,126,M. Berrettini,H. Hurkacz,M. Berrettini,Grass,6,0.5538292,0.4461708,M. Berrettini
+380,2021,wimbledon,127,N. Djokovic,M. Berrettini,N. Djokovic,Grass,7,0.68115175,0.31884825,N. Djokovic
+381,2021,usopen,1,N. Djokovic,H. Rune,N. Djokovic,Hard,1,0.9816817,0.0183183,N. Djokovic
+382,2021,usopen,2,T. Griekspoor,J. Struff,T. Griekspoor,Hard,1,0.4060886,0.5939114,J. Struff
+383,2021,usopen,3,S. Caruso,K. Nishikori,K. Nishikori,Hard,1,0.62988186,0.37011814,S. Caruso
+384,2021,usopen,4,M. McDonald,D. Goffin,M. McDonald,Hard,1,0.6099323,0.3900677,M. McDonald
+385,2021,usopen,5,A. Karatsev,J. Munar,A. Karatsev,Hard,1,0.6910004,0.3089996,A. Karatsev
+386,2021,usopen,6,J. Thompson,G. Mager,J. Thompson,Hard,1,0.21278334,0.78721666,G. Mager
+387,2021,usopen,7,J. Brooksby,M. Ymer,J. Brooksby,Hard,1,0.04356888,0.95643115,M. Ymer
+388,2021,usopen,8,T. Fritz,A. DeMinaur,T. Fritz,Hard,1,0.02611345,0.97388655,A. DeMinaur
+389,2021,usopen,9,H. Hurkacz,E. Gerasimov,H. Hurkacz,Hard,1,0.48336798,0.516632,E. Gerasimov
+390,2021,usopen,10,A. Seppi,M. Fucsovics,A. Seppi,Hard,1,0.36113274,0.63886726,M. Fucsovics
+391,2021,usopen,11,D. Kulda,L. Djere,L. Djere,Hard,1,0.11332351,0.8866765,L. Djere
+392,2021,usopen,12,O. Otte,L. Sonego,O. Otte,Hard,1,0.04547402,0.95452595,L. Sonego
+393,2021,usopen,13,F. Fognini,V. Pospisil,V. Pospisil,Hard,1,0.7692256,0.2307744,F. Fognini
+394,2021,usopen,14,T. Sandgren,I. Ivashka,I. Ivashka,Hard,1,0.70546937,0.29453063,T. Sandgren
+395,2021,usopen,15,C. Moutet,S. Travaglia,C. Moutet,Hard,1,0.6920737,0.3079263,C. Moutet
+396,2021,usopen,16,J. Chardy,M. Berrettini,M. Berrettini,Hard,1,0.05930564,0.94069433,M. Berrettini
+397,2021,usopen,17,A. Zverev,S. Querrey,A. Zverev,Hard,1,0.8527409,0.14725912,A. Zverev
+398,2021,usopen,18,A. Ramos,L. Pouille,A. Ramos,Hard,1,0.328069,0.671931,L. Pouille
+399,2021,usopen,19,Y. Nishioka,J. Sock,J. Sock,Hard,1,0.32514432,0.6748557,J. Sock
+400,2021,usopen,20,Y. Hanfmann,A. Bublik,A. Bublik,Hard,1,0.22578493,0.7742151,A. Bublik
+401,2021,usopen,21,G. Monfils,F. Coria,G. Monfils,Hard,1,0.8520142,0.14798582,G. Monfils
+402,2021,usopen,22,S. Johnson,M. Marterer,S. Johnson,Hard,1,0.324139,0.675861,M. Marterer
+403,2021,usopen,23,M. Cecchinato,Z. Svajda,Z. Svajda,Hard,1,0.79763293,0.20236707,M. Cecchinato
+404,2021,usopen,24,M. Purcell,J. Sinner,J. Sinner,Hard,1,0.22674125,0.77325875,J. Sinner
+405,2021,usopen,25,P. Carreno Busta,M. Cressy,M. Cressy,Hard,1,0.49444282,0.5055572,M. Cressy
+406,2021,usopen,26,S. Korda,N. Basilashvili,N. Basilashvili,Hard,1,0.06934074,0.9306593,N. Basilashvili
+407,2021,usopen,27,L. Musetti,E. Nava,L. Musetti,Hard,1,0.32930803,0.67069197,E. Nava
+408,2021,usopen,28,S. Kwon,R. Opelka,R. Opelka,Hard,1,0.04438359,0.9556164,R. Opelka
+409,2021,usopen,29,K. Khachanov,L. Harris,L. Harris,Hard,1,0.6744188,0.3255812,K. Khachanov
+410,2021,usopen,30,P. Cuevas,E. Escobedo,E. Escobedo,Hard,1,0.8229016,0.1770984,P. Cuevas
+411,2021,usopen,31,R. Carballes Baena,T. Paul,R. Carballes Baena,Hard,1,0.2955075,0.7044925,T. Paul
+412,2021,usopen,32,F. Delbonis,D. Shapovalov,D. Shapovalov,Hard,1,0.4951256,0.5048744,D. Shapovalov
+413,2021,usopen,33,A. Rublev,I. Karlovic,A. Rublev,Hard,1,0.7170681,0.28293192,A. Rublev
+414,2021,usopen,34,P. Martinez,J. Duckworth,P. Martinez,Hard,1,0.06236818,0.93763185,J. Duckworth
+415,2021,usopen,35,F. Tiafoe,C. Eubanks,F. Tiafoe,Hard,1,0.6670855,0.33291447,F. Tiafoe
+416,2021,usopen,36,G. Pella,F. Krajinovic,G. Pella,Hard,1,0.38395947,0.6160405,F. Krajinovic
+417,2021,usopen,37,R. Bautista Agut,N. Kyrgios,R. Bautista Agut,Hard,1,0.48425016,0.5157498,N. Kyrgios
+418,2021,usopen,38,K. Majchzak,E. Ruusuvuori,E. Ruusuvuori,Hard,1,0.25536734,0.74463266,E. Ruusuvuori
+419,2021,usopen,39,F. Lopez,B. Zapata Miralles,B. Zapata Miralles,Hard,1,0.3196833,0.6803167,B. Zapata Miralles
+420,2021,usopen,40,E. Donskoy,F. Auger Aliassime,F. Auger Aliassime,Hard,1,0.10103911,0.8989609,F. Auger Aliassime
+421,2021,usopen,41,C. Garin,N. Gombos,C. Garin,Hard,1,0.7223753,0.27762473,C. Garin
+422,2021,usopen,42,H. Laaksonen,J. Millman,H. Laaksonen,Hard,1,0.64920396,0.35079604,H. Laaksonen
+423,2021,usopen,43,D. Lajovic,B. Paire,D. Lajovic,Hard,1,0.6106336,0.3893664,D. Lajovic
+424,2021,usopen,44,P. Gojowczyk,U. Humbert,P. Gojowczyk,Hard,1,0.48832595,0.51167405,U. Humbert
+425,2021,usopen,45,C. Norrie,C. Alcaraz Garfia,C. Alcaraz Garfia,Hard,1,0.42462227,0.5753777,C. Alcaraz Garfia
+426,2021,usopen,46,M. Kecmanovic,A. Rinderknech,A. Rinderknech,Hard,1,0.84456813,0.15543187,M. Kecmanovic
+427,2021,usopen,47,P. Herbert,A. Mannarino,A. Mannarino,Hard,1,0.33844656,0.66155344,A. Mannarino
+428,2021,usopen,48,A. Murray,S. Tsitsipas,S. Tsitsipas,Hard,1,0.01110929,0.9888907,S. Tsitsipas
+429,2021,usopen,49,C. Ruud,J. Tsonga,C. Ruud,Hard,1,0.7237891,0.2762109,C. Ruud
+430,2021,usopen,50,B. van de Zandschulp,C. Taberner,B. van de Zandschulp,Hard,1,0.676471,0.323529,B. van de Zandschulp
+431,2021,usopen,51,F. Bagnis,T. Daniel,F. Bagnis,Hard,1,0.07989371,0.9201063,T. Daniel
+432,2021,usopen,52,M. Trungelliti,A. Davidovich Fokina,M. Trungelliti,Hard,1,0.3197132,0.68028677,A. Davidovich Fokina
+433,2021,usopen,53,J. Isner,B. Nakashima,B. Nakashima,Hard,1,0.95440626,0.04559374,J. Isner
+434,2021,usopen,54,A. Molcan,C. Ilkel,A. Molcan,Hard,1,0.32005265,0.6799474,C. Ilkel
+435,2021,usopen,55,J. Vesely,K. Anderson,K. Anderson,Hard,1,0.06449115,0.93550885,K. Anderson
+436,2021,usopen,56,R. Berankis,D. Schwartzman,D. Schwartzman,Hard,1,0.37734047,0.62265956,D. Schwartzman
+437,2021,usopen,57,G. Dimitrov,S. Riffice,G. Dimitrov,Hard,1,0.96260613,0.03739387,G. Dimitrov
+438,2021,usopen,58,A. Popyrin,R. Albot,A. Popyrin,Hard,1,0.0297651,0.9702349,R. Albot
+439,2021,usopen,59,M. Giron,A. Hoang,M. Giron,Hard,1,0.757352,0.242648,M. Giron
+440,2021,usopen,60,T. Monteiro,D. Evans,D. Evans,Hard,1,0.9197383,0.08026171,T. Monteiro
+441,2021,usopen,61,M. Cilic,P. Kohlschreiber,P. Kohlschreiber,Hard,1,0.01038557,0.9896144,P. Kohlschreiber
+442,2021,usopen,62,M. Kukushkin,P. Andujar,P. Andujar,Hard,1,0.3621305,0.6378695,P. Andujar
+443,2021,usopen,63,D. Koepfer,Q. Halys,D. Koepfer,Hard,1,0.4636896,0.53631043,Q. Halys
+444,2021,usopen,64,R. Gasquet,D. Medvedev,D. Medvedev,Hard,1,0.01170251,0.98829746,D. Medvedev
+445,2021,usopen,65,N. Djokovic,T. Griekspoor,N. Djokovic,Hard,2,0.9341172,0.0658828,N. Djokovic
+446,2021,usopen,66,K. Nishikori,M. McDonald,K. Nishikori,Hard,2,0.13396418,0.8660358,M. McDonald
+447,2021,usopen,67,A. Karatsev,J. Thompson,A. Karatsev,Hard,2,0.965932,0.03406799,A. Karatsev
+448,2021,usopen,68,J. Brooksby,T. Fritz,J. Brooksby,Hard,2,0.29951614,0.70048386,T. Fritz
+449,2021,usopen,69,H. Hurkacz,A. Seppi,A. Seppi,Hard,2,0.40619254,0.59380746,A. Seppi
+450,2021,usopen,70,L. Djere,O. Otte,O. Otte,Hard,2,0.7463273,0.25367272,L. Djere
+451,2021,usopen,71,V. Pospisil,I. Ivashka,I. Ivashka,Hard,2,0.38075864,0.61924136,I. Ivashka
+452,2021,usopen,72,C. Moutet,M. Berrettini,M. Berrettini,Hard,2,0.16257086,0.83742917,M. Berrettini
+453,2021,usopen,73,A. Zverev,A. Ramos,A. Zverev,Hard,2,0.9797772,0.02022278,A. Zverev
+454,2021,usopen,74,J. Sock,A. Bublik,J. Sock,Hard,2,0.05399367,0.9460063,A. Bublik
+455,2021,usopen,75,G. Monfils,S. Johnson,G. Monfils,Hard,2,0.932514,0.06748599,G. Monfils
+456,2021,usopen,76,Z. Svajda,J. Sinner,J. Sinner,Hard,2,0.04906696,0.95093304,J. Sinner
+457,2021,usopen,77,M. Cressy,N. Basilashvili,N. Basilashvili,Hard,2,0.72293264,0.27706736,M. Cressy
+458,2021,usopen,78,L. Musetti,R. Opelka,R. Opelka,Hard,2,0.0424549,0.9575451,R. Opelka
+459,2021,usopen,79,L. Harris,E. Escobedo,L. Harris,Hard,2,0.8570334,0.14296663,L. Harris
+460,2021,usopen,80,R. Carballes Baena,D. Shapovalov,D. Shapovalov,Hard,2,0.31528834,0.6847117,D. Shapovalov
+461,2021,usopen,81,A. Rublev,P. Martinez,A. Rublev,Hard,2,0.96709037,0.03290963,A. Rublev
+462,2021,usopen,82,F. Tiafoe,G. Pella,F. Tiafoe,Hard,2,0.44486964,0.55513036,G. Pella
+463,2021,usopen,83,R. Bautista Agut,E. Ruusuvuori,R. Bautista Agut,Hard,2,0.61183286,0.38816714,R. Bautista Agut
+464,2021,usopen,84,B. Zapata Miralles,F. Auger Aliassime,F. Auger Aliassime,Hard,2,0.02601314,0.97398686,F. Auger Aliassime
+465,2021,usopen,85,C. Garin,H. Laaksonen,H. Laaksonen,Hard,2,0.8699093,0.13009071,C. Garin
+466,2021,usopen,86,D. Lajovic,P. Gojowczyk,P. Gojowczyk,Hard,2,0.5619123,0.4380877,D. Lajovic
+467,2021,usopen,87,C. Alcaraz Garfia,A. Rinderknech,C. Alcaraz Garfia,Hard,2,0.9168131,0.08318692,C. Alcaraz Garfia
+468,2021,usopen,88,A. Mannarino,S. Tsitsipas,S. Tsitsipas,Hard,2,0.17826506,0.8217349,S. Tsitsipas
+469,2021,usopen,89,C. Ruud,B. van de Zandschulp,B. van de Zandschulp,Hard,2,0.88323706,0.11676294,C. Ruud
+470,2021,usopen,90,F. Bagnis,M. Trungelliti,F. Bagnis,Hard,2,0.10337842,0.8966216,M. Trungelliti
+471,2021,usopen,91,B. Nakashima,A. Molcan,A. Molcan,Hard,2,0.3099634,0.6900366,A. Molcan
+472,2021,usopen,92,K. Anderson,D. Schwartzman,D. Schwartzman,Hard,2,0.2548541,0.7451459,D. Schwartzman
+473,2021,usopen,93,G. Dimitrov,A. Popyrin,A. Popyrin,Hard,2,0.95893204,0.04106796,G. Dimitrov
+474,2021,usopen,94,M. Giron,D. Evans,D. Evans,Hard,2,0.7329956,0.26700437,M. Giron
+475,2021,usopen,95,P. Kohlschreiber,P. Andujar,P. Andujar,Hard,2,0.83079994,0.16920006,P. Kohlschreiber
+476,2021,usopen,96,D. Koepfer,D. Medvedev,D. Medvedev,Hard,2,0.11805806,0.8819419,D. Medvedev
+477,2021,usopen,97,N. Djokovic,K. Nishikori,N. Djokovic,Hard,3,0.9307256,0.06927443,N. Djokovic
+478,2021,usopen,98,A. Karatsev,J. Brooksby,J. Brooksby,Hard,3,0.9643829,0.03561711,A. Karatsev
+479,2021,usopen,99,A. Seppi,O. Otte,O. Otte,Hard,3,0.88203096,0.11796904,A. Seppi
+480,2021,usopen,100,I. Ivashka,M. Berrettini,M. Berrettini,Hard,3,0.13894147,0.86105853,M. Berrettini
+481,2021,usopen,101,A. Zverev,J. Sock,A. Zverev,Hard,3,0.9796082,0.02039182,A. Zverev
+482,2021,usopen,102,G. Monfils,J. Sinner,J. Sinner,Hard,3,0.61522114,0.38477886,G. Monfils
+483,2021,usopen,103,N. Basilashvili,R. Opelka,R. Opelka,Hard,3,0.3405543,0.6594457,R. Opelka
+484,2021,usopen,104,L. Harris,D. Shapovalov,L. Harris,Hard,3,0.3528606,0.64713943,D. Shapovalov
+485,2021,usopen,105,A. Rublev,F. Tiafoe,F. Tiafoe,Hard,3,0.76750994,0.23249006,A. Rublev
+486,2021,usopen,106,R. Bautista Agut,F. Auger Aliassime,F. Auger Aliassime,Hard,3,0.43498874,0.56501126,F. Auger Aliassime
+487,2021,usopen,107,H. Laaksonen,P. Gojowczyk,P. Gojowczyk,Hard,3,0.13699743,0.86300254,P. Gojowczyk
+488,2021,usopen,108,C. Alcaraz Garfia,S. Tsitsipas,C. Alcaraz Garfia,Hard,3,0.20196545,0.79803455,S. Tsitsipas
+489,2021,usopen,109,B. van de Zandschulp,F. Bagnis,B. van de Zandschulp,Hard,3,0.6501642,0.3498358,B. van de Zandschulp
+490,2021,usopen,110,A. Molcan,D. Schwartzman,D. Schwartzman,Hard,3,0.02345282,0.9765472,D. Schwartzman
+491,2021,usopen,111,A. Popyrin,D. Evans,D. Evans,Hard,3,0.284794,0.715206,D. Evans
+492,2021,usopen,112,P. Andujar,D. Medvedev,D. Medvedev,Hard,3,0.14059305,0.85940695,D. Medvedev
+493,2021,usopen,113,N. Djokovic,J. Brooksby,N. Djokovic,Hard,4,0.9781774,0.02182257,N. Djokovic
+494,2021,usopen,114,O. Otte,M. Berrettini,M. Berrettini,Hard,4,0.01409936,0.98590064,M. Berrettini
+495,2021,usopen,115,A. Zverev,J. Sinner,A. Zverev,Hard,4,0.84460413,0.15539587,A. Zverev
+496,2021,usopen,116,R. Opelka,L. Harris,L. Harris,Hard,4,0.55641615,0.44358385,R. Opelka
+497,2021,usopen,117,F. Tiafoe,F. Auger Aliassime,F. Auger Aliassime,Hard,4,0.2777129,0.72228706,F. Auger Aliassime
+498,2021,usopen,118,P. Gojowczyk,C. Alcaraz Garfia,C. Alcaraz Garfia,Hard,4,0.38246453,0.6175355,C. Alcaraz Garfia
+499,2021,usopen,119,B. van de Zandschulp,D. Schwartzman,B. van de Zandschulp,Hard,4,0.09316415,0.90683585,D. Schwartzman
+500,2021,usopen,120,D. Evans,D. Medvedev,D. Medvedev,Hard,4,0.01060936,0.9893906,D. Medvedev
+501,2021,usopen,121,N. Djokovic,M. Berrettini,N. Djokovic,Hard,5,0.6086528,0.39134723,N. Djokovic
+502,2021,usopen,122,A. Zverev,L. Harris,A. Zverev,Hard,5,0.8641706,0.13582939,A. Zverev
+503,2021,usopen,123,F. Auger Aliassime,C. Alcaraz Garfia,F. Auger Aliassime,Hard,5,0.48950124,0.51049876,C. Alcaraz Garfia
+504,2021,usopen,124,B. van de Zandschulp,D. Medvedev,D. Medvedev,Hard,5,0.04043636,0.9595636,D. Medvedev
+505,2021,usopen,125,N. Djokovic,A. Zverev,N. Djokovic,Hard,6,0.44192198,0.55807805,A. Zverev
+506,2021,usopen,126,F. Auger Aliassime,D. Medvedev,D. Medvedev,Hard,6,0.23350051,0.7664995,D. Medvedev
+507,2021,usopen,127,N. Djokovic,D. Medvedev,D. Medvedev,Hard,7,0.51589584,0.48410416,N. Djokovic
+508,2022,ausopen,1101,S. Caruso,M. Kecmanovic,M. Kecmanovic,Hard,1,0.4790995,0.5209005,M. Kecmanovic
+509,2022,ausopen,1102,M. Kukushkin,T. Paul,T. Paul,Hard,1,0.3469427,0.65305734,T. Paul
+510,2022,ausopen,1103,O. Otte,C. Tseng,O. Otte,Hard,1,0.9968935,0.003106475,O. Otte
+511,2022,ausopen,1104,S. Querrey,L. Sonego,L. Sonego,Hard,1,0.4599684,0.5400316,L. Sonego
+512,2022,ausopen,1105,G. Monfils,F. Coria,G. Monfils,Hard,1,0.9598447,0.04015529,G. Monfils
+513,2022,ausopen,1106,A. Bublik,E. Escobedo,A. Bublik,Hard,1,0.45625642,0.5437436,E. Escobedo
+514,2022,ausopen,1107,F. Delbonis,P. Martinez,P. Martinez,Hard,1,0.22622481,0.7737752,P. Martinez
+515,2022,ausopen,1108,F. Bagnis,C. Garin,C. Garin,Hard,1,0.58522654,0.41477346,F. Bagnis
+516,2022,ausopen,1109,C. Norrie,S. Korda,S. Korda,Hard,1,0.42714283,0.57285714,S. Korda
+517,2022,ausopen,1110,C. Moutet,L. Pouille,C. Moutet,Hard,1,0.40021822,0.59978175,L. Pouille
+518,2022,ausopen,1111,T. Griekspoor,F. Fognini,T. Griekspoor,Hard,1,0.009524018,0.990476,F. Fognini
+519,2022,ausopen,1112,T. Etcheverry,P. Carreno Busta,P. Carreno Busta,Hard,1,0.004006952,0.995993,P. Carreno Busta
+520,2022,ausopen,1113,C. Alcaraz,A. Tabilo,C. Alcaraz,Hard,1,0.9794917,0.02050829,C. Alcaraz
+521,2022,ausopen,1114,M. Fucsovics,D. Lajovic,D. Lajovic,Hard,1,0.6757135,0.32428652,M. Fucsovics
+522,2022,ausopen,1115,S. Kozlov,J. Vesely,S. Kozlov,Hard,1,0.05580476,0.9441953,J. Vesely
+523,2022,ausopen,1116,B. Nakashima,M. Berrettini,M. Berrettini,Hard,1,0.08677781,0.9132222,M. Berrettini
+524,2022,ausopen,1117,A. Zverev,D. Altmaier,A. Zverev,Hard,1,0.7160843,0.2839157,A. Zverev
+525,2022,ausopen,1118,F. Lopez,J. Millman,J. Millman,Hard,1,0.09046242,0.90953755,J. Millman
+526,2022,ausopen,1119,R. Albot,Y. Nishioka,R. Albot,Hard,1,0.31046695,0.68953305,Y. Nishioka
+527,2022,ausopen,1120,A. Vukic,L. Harris,A. Vukic,Hard,1,0.021784693,0.97821534,L. Harris
+528,2022,ausopen,1121,R. Opelka,K. Anderson,R. Opelka,Hard,1,0.7775841,0.22241592,R. Opelka
+529,2022,ausopen,1122,D. Koepfer,C. Taberner,D. Koepfer,Hard,1,0.9394028,0.06059718,D. Koepfer
+530,2022,ausopen,1123,H. Rune,S. Kwon,S. Kwon,Hard,1,0.058374494,0.9416255,S. Kwon
+531,2022,ausopen,1124,L. Djere,D. Shapovalov,D. Shapovalov,Hard,1,0.067804396,0.9321956,D. Shapovalov
+532,2022,ausopen,1125,H. Hurkacz,E. Gerasimov,H. Hurkacz,Hard,1,0.9648615,0.035138488,H. Hurkacz
+533,2022,ausopen,1126,J. Duckworth,A. Mannarino,A. Mannarino,Hard,1,0.5171932,0.4828068,J. Duckworth
+534,2022,ausopen,1127,N. Milojevic,M. Mcdonald,M. Mcdonald,Hard,1,0.5110619,0.4889381,N. Milojevic
+535,2022,ausopen,1128,J. Munar,A. Karatsev,A. Karatsev,Hard,1,0.016515046,0.983485,A. Karatsev
+536,2022,ausopen,1129,K. Khachanov,D. Kudla,K. Khachanov,Hard,1,0.909431,0.09056902,K. Khachanov
+537,2022,ausopen,1130,B. Bonzi,P. Gojowczyk,B. Bonzi,Hard,1,0.46700412,0.5329959,P. Gojowczyk
+538,2022,ausopen,1131,Y. Hanfmann,T. Kokkinakis,Y. Hanfmann,Hard,1,0.004080802,0.9959192,T. Kokkinakis
+539,2022,ausopen,1132,M. Giron,R. Nadal,R. Nadal,Hard,1,0.001808912,0.9981911,R. Nadal
+540,2022,ausopen,1133,C. Ruud,A. Molcan,A. Molcan,Hard,1,0.8170259,0.1829741,C. Ruud
+541,2022,ausopen,1134,I. Ivashka,P. Andujar,P. Andujar,Hard,1,0.81406355,0.18593645,I. Ivashka
+542,2022,ausopen,1135,A. Seppi,K. Majchrzak,K. Majchrzak,Hard,1,0.9044925,0.0955075,A. Seppi
+543,2022,ausopen,1136,L. Musetti,A. De Minaur,A. De Minaur,Hard,1,0.6781835,0.3218165,L. Musetti
+544,2022,ausopen,1137,N. Basilashvili,A. Murray,A. Murray,Hard,1,0.6033416,0.39665842,N. Basilashvili
+545,2022,ausopen,1138,T. Daniel,T. Barrios Vera,T. Daniel,Hard,1,0.7691481,0.23085189,T. Daniel
+546,2022,ausopen,1139,S. Johnson,J. Thompson,S. Johnson,Hard,1,0.21506587,0.78493416,J. Thompson
+547,2022,ausopen,1140,J. Sousa,J. Sinner,J. Sinner,Hard,1,0.029575318,0.97042465,J. Sinner
+548,2022,ausopen,1141,R. Bautista Agut,S. Travaglia,R. Bautista Agut,Hard,1,0.9899212,0.010078788,R. Bautista Agut
+549,2022,ausopen,1142,P. Kohlschreiber,M. Cecchinato,P. Kohlschreiber,Hard,1,0.59354955,0.40645045,P. Kohlschreiber
+550,2022,ausopen,1143,F. Tiafoe,M. Trungelliti,F. Tiafoe,Hard,1,0.9675029,0.032497108,F. Tiafoe
+551,2022,ausopen,1144,M. Marterer,T. Fritz,T. Fritz,Hard,1,0.036656708,0.96334326,T. Fritz
+552,2022,ausopen,1145,G. Dimitrov,J. Lehecka,G. Dimitrov,Hard,1,0.99797606,0.002023935,G. Dimitrov
+553,2022,ausopen,1146,B. Paire,T. Monteiro,B. Paire,Hard,1,0.9134736,0.086526394,B. Paire
+554,2022,ausopen,1147,S. Baez,A. Ramos Vinolas,S. Baez,Hard,1,0.481013,0.518987,A. Ramos Vinolas
+555,2022,ausopen,1148,M. Ymer,S. Tsitsipas,S. Tsitsipas,Hard,1,0.05434975,0.9456502,S. Tsitsipas
+556,2022,ausopen,1149,A. Rublev,G. Mager,A. Rublev,Hard,1,0.99088097,0.009119034,A. Rublev
+557,2022,ausopen,1150,R. Carballes Baena,R. Berankis,R. Berankis,Hard,1,0.45665005,0.54335,R. Berankis
+558,2022,ausopen,1151,T. Skatov,N. Gombos,N. Gombos,Hard,1,0.035510123,0.9644899,N. Gombos
+559,2022,ausopen,1152,E. Gomez,M. Cilic,M. Cilic,Hard,1,0.087283194,0.9127168,M. Cilic
+560,2022,ausopen,1153,D. Evans,D. Goffin,D. Evans,Hard,1,0.38885736,0.61114264,D. Goffin
+561,2022,ausopen,1154,A. Popyrin,A. Rinderknech,A. Rinderknech,Hard,1,0.96634376,0.03365624,A. Popyrin
+562,2022,ausopen,1155,A. Davidovich Fokina,A. Bolt,A. Davidovich Fokina,Hard,1,0.59095556,0.40904444,A. Davidovich Fokina
+563,2022,ausopen,1156,E. Ruusuvuori,F. Auger-Aliassime,F. Auger-Aliassime,Hard,1,0.18536338,0.8146366,F. Auger-Aliassime
+564,2022,ausopen,1157,D. Schwartzman,F. Krajinovic,D. Schwartzman,Hard,1,0.9642861,0.03571391,D. Schwartzman
+565,2022,ausopen,1158,C. O'Connell,H. Gaston,C. O'Connell,Hard,1,0.24347663,0.7565234,H. Gaston
+566,2022,ausopen,1159,T. Machac,J. Cerundolo,T. Machac,Hard,1,0.99512756,0.004872441,T. Machac
+567,2022,ausopen,1160,M. Cressy,J. Isner,M. Cressy,Hard,1,0.24283653,0.75716347,J. Isner
+568,2022,ausopen,1161,U. Humbert,R. Gasquet,R. Gasquet,Hard,1,0.8540081,0.14599192,U. Humbert
+569,2022,ausopen,1162,B. Van De Zandschulp,J. Struff,B. Van De Zandschulp,Hard,1,0.6633084,0.33669162,B. Van De Zandschulp
+570,2022,ausopen,1163,L. Broady,N. Kyrgios,N. Kyrgios,Hard,1,0.3742683,0.6257317,N. Kyrgios
+571,2022,ausopen,1164,H. Laaksonen,D. Medvedev,D. Medvedev,Hard,1,0.008558005,0.99144197,D. Medvedev
+572,2022,ausopen,1201,M. Kecmanovic,T. Paul,M. Kecmanovic,Hard,2,0.38832045,0.61167955,T. Paul
+573,2022,ausopen,1202,O. Otte,L. Sonego,L. Sonego,Hard,2,0.80855024,0.19144976,O. Otte
+574,2022,ausopen,1203,G. Monfils,A. Bublik,G. Monfils,Hard,2,0.83968496,0.16031504,G. Monfils
+575,2022,ausopen,1204,P. Martinez,C. Garin,C. Garin,Hard,2,0.21669519,0.7833048,C. Garin
+576,2022,ausopen,1205,S. Korda,C. Moutet,S. Korda,Hard,2,0.5214059,0.47859412,S. Korda
+577,2022,ausopen,1206,T. Griekspoor,P. Carreno Busta,P. Carreno Busta,Hard,2,0.004919976,0.99508,P. Carreno Busta
+578,2022,ausopen,1207,C. Alcaraz,D. Lajovic,C. Alcaraz,Hard,2,0.8143311,0.18566889,C. Alcaraz
+579,2022,ausopen,1208,S. Kozlov,M. Berrettini,M. Berrettini,Hard,2,0.003370017,0.99662995,M. Berrettini
+580,2022,ausopen,1209,A. Zverev,J. Millman,A. Zverev,Hard,2,0.9837879,0.016212106,A. Zverev
+581,2022,ausopen,1210,R. Albot,A. Vukic,R. Albot,Hard,2,0.23069051,0.7693095,A. Vukic
+582,2022,ausopen,1211,R. Opelka,D. Koepfer,R. Opelka,Hard,2,0.954531,0.045468986,R. Opelka
+583,2022,ausopen,1212,S. Kwon,D. Shapovalov,D. Shapovalov,Hard,2,0.005188584,0.9948114,D. Shapovalov
+584,2022,ausopen,1213,H. Hurkacz,A. Mannarino,A. Mannarino,Hard,2,0.9102343,0.08976573,H. Hurkacz
+585,2022,ausopen,1214,M. Mcdonald,A. Karatsev,A. Karatsev,Hard,2,0.19406435,0.8059356,A. Karatsev
+586,2022,ausopen,1215,K. Khachanov,B. Bonzi,K. Khachanov,Hard,2,0.96088976,0.039110243,K. Khachanov
+587,2022,ausopen,1216,Y. Hanfmann,R. Nadal,R. Nadal,Hard,2,0.001438618,0.9985614,R. Nadal
+588,2022,ausopen,1217,A. Molcan,P. Andujar,P. Andujar,Hard,2,0.9263731,0.073626876,A. Molcan
+589,2022,ausopen,1218,K. Majchrzak,A. De Minaur,A. De Minaur,Hard,2,0.26359963,0.73640037,A. De Minaur
+590,2022,ausopen,1219,A. Murray,T. Daniel,T. Daniel,Hard,2,0.9893584,0.010641575,A. Murray
+591,2022,ausopen,1220,S. Johnson,J. Sinner,J. Sinner,Hard,2,0.068668574,0.9313314,J. Sinner
+592,2022,ausopen,1221,R. Bautista Agut,P. Kohlschreiber,R. Bautista Agut,Hard,2,0.9781019,0.02189809,R. Bautista Agut
+593,2022,ausopen,1222,F. Tiafoe,T. Fritz,T. Fritz,Hard,2,0.6127322,0.38726783,F. Tiafoe
+594,2022,ausopen,1223,G. Dimitrov,B. Paire,B. Paire,Hard,2,0.9818468,0.01815319,G. Dimitrov
+595,2022,ausopen,1224,S. Baez,S. Tsitsipas,S. Tsitsipas,Hard,2,0.003840357,0.9961597,S. Tsitsipas
+596,2022,ausopen,1225,A. Rublev,R. Berankis,A. Rublev,Hard,2,0.97872984,0.021270156,A. Rublev
+597,2022,ausopen,1226,N. Gombos,M. Cilic,M. Cilic,Hard,2,0.004838944,0.99516106,M. Cilic
+598,2022,ausopen,1227,D. Evans,A. Rinderknech,D. Evans,Hard,2,0.96609694,0.033903062,D. Evans
+599,2022,ausopen,1228,A. Davidovich Fokina,F. Auger-Aliassime,F. Auger-Aliassime,Hard,2,0.4790581,0.5209419,F. Auger-Aliassime
+600,2022,ausopen,1229,D. Schwartzman,C. O'Connell,C. O'Connell,Hard,2,0.93985856,0.060141444,D. Schwartzman
+601,2022,ausopen,1230,T. Machac,M. Cressy,M. Cressy,Hard,2,0.38174444,0.61825556,M. Cressy
+602,2022,ausopen,1231,R. Gasquet,B. Van De Zandschulp,B. Van De Zandschulp,Hard,2,0.56475025,0.43524975,R. Gasquet
+603,2022,ausopen,1232,N. Kyrgios,D. Medvedev,D. Medvedev,Hard,2,0.0062823,0.9937177,D. Medvedev
+604,2022,ausopen,1301,M. Kecmanovic,L. Sonego,M. Kecmanovic,Hard,3,0.38075468,0.6192453,L. Sonego
+605,2022,ausopen,1302,G. Monfils,C. Garin,G. Monfils,Hard,3,0.8413881,0.1586119,G. Monfils
+606,2022,ausopen,1303,S. Korda,P. Carreno Busta,P. Carreno Busta,Hard,3,0.16690299,0.833097,P. Carreno Busta
+607,2022,ausopen,1304,C. Alcaraz,M. Berrettini,M. Berrettini,Hard,3,0.2460945,0.75390553,M. Berrettini
+608,2022,ausopen,1305,A. Zverev,R. Albot,A. Zverev,Hard,3,0.99178654,0.00821346,A. Zverev
+609,2022,ausopen,1306,R. Opelka,D. Shapovalov,D. Shapovalov,Hard,3,0.26526794,0.73473203,D. Shapovalov
+610,2022,ausopen,1307,A. Mannarino,A. Karatsev,A. Mannarino,Hard,3,0.057845235,0.94215477,A. Karatsev
+611,2022,ausopen,1308,K. Khachanov,R. Nadal,R. Nadal,Hard,3,0.03423494,0.96576506,R. Nadal
+612,2022,ausopen,1309,P. Andujar,A. De Minaur,A. De Minaur,Hard,3,0.59147006,0.40852994,P. Andujar
+613,2022,ausopen,1310,T. Daniel,J. Sinner,J. Sinner,Hard,3,0.00530085,0.9946991,J. Sinner
+614,2022,ausopen,1311,R. Bautista Agut,T. Fritz,T. Fritz,Hard,3,0.8004032,0.19959682,R. Bautista Agut
+615,2022,ausopen,1312,B. Paire,S. Tsitsipas,S. Tsitsipas,Hard,3,0.09291327,0.90708673,S. Tsitsipas
+616,2022,ausopen,1313,A. Rublev,M. Cilic,M. Cilic,Hard,3,0.8539688,0.1460312,A. Rublev
+617,2022,ausopen,1314,D. Evans,F. Auger-Aliassime,F. Auger-Aliassime,Hard,3,0.57492155,0.42507845,D. Evans
+618,2022,ausopen,1315,C. O'Connell,M. Cressy,M. Cressy,Hard,3,0.16629758,0.83370245,M. Cressy
+619,2022,ausopen,1316,B. Van De Zandschulp,D. Medvedev,D. Medvedev,Hard,3,0.012419283,0.9875807,D. Medvedev
+620,2022,ausopen,1401,M. Kecmanovic,G. Monfils,G. Monfils,Hard,4,0.5856332,0.41436678,M. Kecmanovic
+621,2022,ausopen,1402,P. Carreno Busta,M. Berrettini,M. Berrettini,Hard,4,0.003488481,0.9965115,M. Berrettini
+622,2022,ausopen,1403,A. Zverev,D. Shapovalov,D. Shapovalov,Hard,4,0.9276248,0.07237518,A. Zverev
+623,2022,ausopen,1404,A. Mannarino,R. Nadal,R. Nadal,Hard,4,0.002116412,0.99788356,R. Nadal
+624,2022,ausopen,1405,A. De Minaur,J. Sinner,J. Sinner,Hard,4,0.46284342,0.5371566,J. Sinner
+625,2022,ausopen,1406,T. Fritz,S. Tsitsipas,S. Tsitsipas,Hard,4,0.007073939,0.99292606,S. Tsitsipas
+626,2022,ausopen,1407,M. Cilic,F. Auger-Aliassime,F. Auger-Aliassime,Hard,4,0.17337942,0.8266206,F. Auger-Aliassime
+627,2022,ausopen,1408,M. Cressy,D. Medvedev,D. Medvedev,Hard,4,0.00587976,0.99412024,D. Medvedev
+628,2022,ausopen,1501,G. Monfils,M. Berrettini,M. Berrettini,Hard,5,0.24087062,0.7591294,M. Berrettini
+629,2022,ausopen,1502,D. Shapovalov,R. Nadal,R. Nadal,Hard,5,0.002181232,0.99781877,R. Nadal
+630,2022,ausopen,1503,J. Sinner,S. Tsitsipas,S. Tsitsipas,Hard,5,0.008892775,0.9911072,S. Tsitsipas
+631,2022,ausopen,1504,F. Auger-Aliassime,D. Medvedev,D. Medvedev,Hard,5,0.003580988,0.996419,D. Medvedev
+632,2022,ausopen,1601,M. Berrettini,R. Nadal,R. Nadal,Hard,6,0.10022116,0.89977884,R. Nadal
+633,2022,ausopen,1602,S. Tsitsipas,D. Medvedev,D. Medvedev,Hard,6,0.20598203,0.794018,D. Medvedev
+634,2022,ausopen,1701,R. Nadal,D. Medvedev,R. Nadal,Hard,7,0.6151575,0.38484251,R. Nadal
+635,2022,frenchopen,1101,N. Djokovic,Y. Nishioka,N. Djokovic,Clay,1,0.997193,0.002807021,N. Djokovic
+636,2022,frenchopen,1102,A. Molcan,F. Coria,A. Molcan,Clay,1,0.81546634,0.18453366,A. Molcan
+637,2022,frenchopen,1103,A. Bedene,C. O'Connell,A. Bedene,Clay,1,0.671649,0.32835102,A. Bedene
+638,2022,frenchopen,1104,P. Cuevas,J. Brooksby,P. Cuevas,Clay,1,0.06932011,0.9306799,J. Brooksby
+639,2022,frenchopen,1105,G. Dimitrov,M. Giron,G. Dimitrov,Clay,1,0.98529506,0.014704943,G. Dimitrov
+640,2022,frenchopen,1106,B. Coric,C. Taberner,B. Coric,Clay,1,0.95031786,0.04968214,B. Coric
+641,2022,frenchopen,1107,D. Altmaier,J. Munar,J. Munar,Clay,1,0.9955182,0.004481792,D. Altmaier
+642,2022,frenchopen,1108,A. Kuznetsov,D. Schwartzman,D. Schwartzman,Clay,1,0.00850758,0.9914924,D. Schwartzman
+643,2022,frenchopen,1109,F. Auger-Aliassime,J. Varillas,F. Auger-Aliassime,Clay,1,0.9986483,0.001351714,F. Auger-Aliassime
+644,2022,frenchopen,1110,C. Carabelli,A. Karatsev,C. Carabelli,Clay,1,0.003909022,0.996091,A. Karatsev
+645,2022,frenchopen,1111,A. Tabilo,B. Gojo,B. Gojo,Clay,1,0.98949766,0.010502338,A. Tabilo
+646,2022,frenchopen,1112,F. Krajinovic,R. Opelka,F. Krajinovic,Clay,1,0.28424698,0.715753,R. Opelka
+647,2022,frenchopen,1113,B. Van De Zandschulp,P. Kotov,B. Van De Zandschulp,Clay,1,0.99826956,0.001730442,B. Van De Zandschulp
+648,2022,frenchopen,1114,F. Fognini,A. Popyrin,F. Fognini,Clay,1,0.902439,0.097561,F. Fognini
+649,2022,frenchopen,1115,S. Wawrinka,C. Moutet,C. Moutet,Clay,1,0.8971175,0.102882504,S. Wawrinka
+650,2022,frenchopen,1116,J. Thompson,R. Nadal,R. Nadal,Clay,1,0.005575836,0.99442416,R. Nadal
+651,2022,frenchopen,1117,A. Zverev,S. Ofner,A. Zverev,Clay,1,0.99984777,0.00015223,A. Zverev
+652,2022,frenchopen,1118,D. Lajovic,S. Baez,S. Baez,Clay,1,0.9985149,0.001485109,D. Lajovic
+653,2022,frenchopen,1119,B. Nakashima,K. Majchrzak,B. Nakashima,Clay,1,0.95444834,0.045551658,B. Nakashima
+654,2022,frenchopen,1120,T. Griekspoor,A. Davidovich Fokina,T. Griekspoor,Clay,1,0.006539106,0.9934609,A. Davidovich Fokina
+655,2022,frenchopen,1121,J. Isner,Q. Halys,J. Isner,Clay,1,0.9825584,0.01744157,J. Isner
+656,2022,frenchopen,1122,T. Daniel,G. Barrere,G. Barrere,Clay,1,0.08647576,0.91352427,G. Barrere
+657,2022,frenchopen,1123,M. Mmoh,B. Zapata Miralles,B. Zapata Miralles,Clay,1,0.7162524,0.2837476,M. Mmoh
+658,2022,frenchopen,1124,S. Rodriguez Taverna,T. Fritz,T. Fritz,Clay,1,0.003652841,0.9963472,T. Fritz
+659,2022,frenchopen,1125,C. Norrie,M. Guinard,C. Norrie,Clay,1,0.9990573,0.000942707,C. Norrie
+660,2022,frenchopen,1126,J. Kubler,D. Kudla,J. Kubler,Clay,1,0.044508815,0.9554912,D. Kudla
+661,2022,frenchopen,1127,H. Dellien,D. Thiem,H. Dellien,Clay,1,0.003239185,0.99676085,D. Thiem
+662,2022,frenchopen,1128,N. Borges,K. Khachanov,K. Khachanov,Clay,1,0.003552049,0.9964479,K. Khachanov
+663,2022,frenchopen,1129,S. Korda,J. Millman,S. Korda,Clay,1,0.57821685,0.42178315,S. Korda
+664,2022,frenchopen,1130,L. Harris,R. Gasquet,L. Harris,Clay,1,0.9402631,0.059736907,L. Harris
+665,2022,frenchopen,1131,A. Ramos Vinolas,T. Kokkinakis,A. Ramos Vinolas,Clay,1,0.007316232,0.99268377,T. Kokkinakis
+666,2022,frenchopen,1132,J. Londonero,C. Alcaraz,C. Alcaraz,Clay,1,0.003398538,0.99660146,C. Alcaraz
+667,2022,frenchopen,1133,C. Ruud,J. Tsonga,C. Ruud,Clay,1,0.9951124,0.004887581,C. Ruud
+668,2022,frenchopen,1134,E. Ruusuvuori,U. Humbert,E. Ruusuvuori,Clay,1,0.30943072,0.6905693,U. Humbert
+669,2022,frenchopen,1135,J. Sousa,C. Tseng,J. Sousa,Clay,1,0.72505677,0.27494323,J. Sousa
+670,2022,frenchopen,1136,P. Gojowczyk,L. Sonego,L. Sonego,Clay,1,0.55476665,0.44523335,P. Gojowczyk
+671,2022,frenchopen,1137,F. Tiafoe,B. Bonzi,F. Tiafoe,Clay,1,0.9010534,0.09894657,F. Tiafoe
+672,2022,frenchopen,1138,J. Lehecka,D. Goffin,D. Goffin,Clay,1,0.006253094,0.9937469,D. Goffin
+673,2022,frenchopen,1139,M. Ceccehinato,P. Andujar,M. Ceccehinato,Clay,1,0.009819865,0.99018013,P. Andujar
+674,2022,frenchopen,1140,G. Zeppieri,H. Hurkacz,H. Hurkacz,Clay,1,0.003500968,0.99649906,H. Hurkacz
+675,2022,frenchopen,1141,D. Shapovalov,H. Rune,H. Rune,Clay,1,0.9988347,0.001165271,D. Shapovalov
+676,2022,frenchopen,1142,P. Martinez,H. Laaksonen,H. Laaksonen,Clay,1,0.45128787,0.54871213,H. Laaksonen
+677,2022,frenchopen,1143,N. Gombos,P. Cachin,P. Cachin,Clay,1,0.99590087,0.004099131,N. Gombos
+678,2022,frenchopen,1144,H. Gaston,A. De Minaur,H. Gaston,Clay,1,0.4155194,0.58448064,A. De Minaur
+679,2022,frenchopen,1145,D. Evans,F. Cerundolo,D. Evans,Clay,1,0.99871874,0.001281261,D. Evans
+680,2022,frenchopen,1146,M. Ymer,J. Duckworth,M. Ymer,Clay,1,0.66025907,0.33974093,M. Ymer
+681,2022,frenchopen,1147,L. Pouille,Z. Kolar,Z. Kolar,Clay,1,0.9434973,0.0565027,L. Pouille
+682,2022,frenchopen,1148,L. Musetti,S. Tsitsipas,S. Tsitsipas,Clay,1,0.070115775,0.9298842,S. Tsitsipas
+683,2022,frenchopen,1149,A. Rublev,S. Kwon,A. Rublev,Clay,1,0.98799837,0.012001634,A. Rublev
+684,2022,frenchopen,1150,A. Mannarino,F. Delbonis,F. Delbonis,Clay,1,0.61304045,0.38695955,A. Mannarino
+685,2022,frenchopen,1151,B. Paire,I. Ivashka,I. Ivashka,Clay,1,0.08337897,0.916621,I. Ivashka
+686,2022,frenchopen,1152,C. Garin,T. Paul,C. Garin,Clay,1,0.6479491,0.3520509,C. Garin
+687,2022,frenchopen,1153,N. Basilashvili,M. Cressy,N. Basilashvili,Clay,1,0.39292806,0.60707194,M. Cressy
+688,2022,frenchopen,1154,M. McDonald,F. Agamenone,M. McDonald,Clay,1,0.996264,0.003736019,M. McDonald
+689,2022,frenchopen,1155,R. Caraballes Baena,O. Otte,R. Caraballes Baena,Clay,1,0.003468752,0.99653125,O. Otte
+690,2022,frenchopen,1156,B. Fratangelo,J. Sinner,J. Sinner,Clay,1,0.003031075,0.9969689,J. Sinner
+691,2022,frenchopen,1157,P. Carreno Busta,G. Simon,G. Simon,Clay,1,0.9845369,0.015463114,P. Carreno Busta
+692,2022,frenchopen,1158,J. Vesely,S. Johnson,S. Johnson,Clay,1,0.49519333,0.50480664,S. Johnson
+693,2022,frenchopen,1159,M. Fucsovics,G. Blancaneaux,M. Fucsovics,Clay,1,0.9993772,0.000622809,M. Fucsovics
+694,2022,frenchopen,1160,A. Balazs,M. Cilic,M. Cilic,Clay,1,0.069300294,0.9306997,M. Cilic
+695,2022,frenchopen,1161,M. Kecmanovic,T. Etcheverry,M. Kecmanovic,Clay,1,0.99376047,0.006239533,M. Kecmanovic
+696,2022,frenchopen,1162,A. Rinderknech,A. Bublik,A. Bublik,Clay,1,0.19155237,0.8084476,A. Bublik
+697,2022,frenchopen,1163,R. Berankis,L. Djere,L. Djere,Clay,1,0.87952757,0.12047243,R. Berankis
+698,2022,frenchopen,1164,F. Bagnis,D. Medvedev,D. Medvedev,Clay,1,0.024616063,0.97538394,D. Medvedev
+699,2022,frenchopen,1201,N. Djokovic,A. Molcan,N. Djokovic,Clay,2,0.9987246,0.00127542,N. Djokovic
+700,2022,frenchopen,1202,A. Bedene,P. Cuevas,A. Bedene,Clay,2,0.19003952,0.8099605,P. Cuevas
+701,2022,frenchopen,1203,G. Dimitrov,B. Coric,G. Dimitrov,Clay,2,0.99279094,0.007209063,G. Dimitrov
+702,2022,frenchopen,1204,J. Munar,D. Schwartzman,D. Schwartzman,Clay,2,0.4172181,0.5827819,D. Schwartzman
+703,2022,frenchopen,1205,F. Auger-Aliassime,C. Carabelli,F. Auger-Aliassime,Clay,2,0.22198388,0.7780161,C. Carabelli
+704,2022,frenchopen,1206,B. Gojo,F. Krajinovic,F. Krajinovic,Clay,2,0.058487475,0.9415125,F. Krajinovic
+705,2022,frenchopen,1207,B. Van De Zandschulp,F. Fognini,B. Van De Zandschulp,Clay,2,0.63348126,0.36651874,B. Van De Zandschulp
+706,2022,frenchopen,1208,C. Moutet,R. Nadal,R. Nadal,Clay,2,0.044461757,0.9555383,R. Nadal
+707,2022,frenchopen,1209,A. Zverev,S. Baez,A. Zverev,Clay,2,0.99983144,0.000168562,A. Zverev
+708,2022,frenchopen,1210,B. Nakashima,T. Griekspoor,B. Nakashima,Clay,2,0.19397655,0.8060235,T. Griekspoor
+709,2022,frenchopen,1211,J. Isner,G. Barrere,J. Isner,Clay,2,0.94614685,0.053853154,J. Isner
+710,2022,frenchopen,1212,B. Zapata Miralles,T. Fritz,B. Zapata Miralles,Clay,2,0.049218178,0.9507818,T. Fritz
+711,2022,frenchopen,1213,C. Norrie,J. Kubler,C. Norrie,Clay,2,0.82738405,0.17261595,C. Norrie
+712,2022,frenchopen,1214,H. Dellien,K. Khachanov,K. Khachanov,Clay,2,0.003252864,0.99674714,K. Khachanov
+713,2022,frenchopen,1215,S. Korda,L. Harris,S. Korda,Clay,2,0.9018549,0.09814513,S. Korda
+714,2022,frenchopen,1216,A. Ramos Vinolas,C. Alcaraz,C. Alcaraz,Clay,2,0.003794521,0.99620545,C. Alcaraz
+715,2022,frenchopen,1217,C. Ruud,E. Ruusuvuori,C. Ruud,Clay,2,0.94209117,0.057908833,C. Ruud
+716,2022,frenchopen,1218,J. Sousa,L. Sonego,L. Sonego,Clay,2,0.006043702,0.9939563,L. Sonego
+717,2022,frenchopen,1219,F. Tiafoe,D. Goffin,D. Goffin,Clay,2,0.6972532,0.30274677,F. Tiafoe
+718,2022,frenchopen,1220,M. Ceccehinato,H. Hurkacz,H. Hurkacz,Clay,2,0.003805965,0.996194,H. Hurkacz
+719,2022,frenchopen,1221,H. Rune,H. Laaksonen,H. Rune,Clay,2,0.60819376,0.39180624,H. Rune
+720,2022,frenchopen,1222,P. Cachin,H. Gaston,H. Gaston,Clay,2,0.16336337,0.83663666,H. Gaston
+721,2022,frenchopen,1223,D. Evans,M. Ymer,M. Ymer,Clay,2,0.80084974,0.19915026,D. Evans
+722,2022,frenchopen,1224,Z. Kolar,S. Tsitsipas,S. Tsitsipas,Clay,2,0.002474517,0.99752545,S. Tsitsipas
+723,2022,frenchopen,1225,A. Rublev,F. Delbonis,A. Rublev,Clay,2,0.9685675,0.03143251,A. Rublev
+724,2022,frenchopen,1226,I. Ivashka,C. Garin,C. Garin,Clay,2,0.22802392,0.7719761,C. Garin
+725,2022,frenchopen,1227,N. Basilashvili,M. McDonald,M. McDonald,Clay,2,0.99345946,0.006540537,N. Basilashvili
+726,2022,frenchopen,1228,R. Caraballes Baena,J. Sinner,J. Sinner,Clay,2,0.003952026,0.996048,J. Sinner
+727,2022,frenchopen,1229,G. Simon,S. Johnson,G. Simon,Clay,2,0.98207456,0.017925441,G. Simon
+728,2022,frenchopen,1230,M. Fucsovics,M. Cilic,M. Cilic,Clay,2,0.7501619,0.24983811,M. Fucsovics
+729,2022,frenchopen,1231,M. Kecmanovic,A. Bublik,M. Kecmanovic,Clay,2,0.42236787,0.5776321,A. Bublik
+730,2022,frenchopen,1232,L. Djere,D. Medvedev,D. Medvedev,Clay,2,0.007751435,0.99224854,D. Medvedev
+731,2022,frenchopen,1301,N. Djokovic,A. Bedene,N. Djokovic,Clay,3,0.9978399,0.002160072,N. Djokovic
+732,2022,frenchopen,1302,G. Dimitrov,D. Schwartzman,D. Schwartzman,Clay,3,0.2282592,0.7717408,D. Schwartzman
+733,2022,frenchopen,1303,F. Auger-Aliassime,F. Krajinovic,F. Auger-Aliassime,Clay,3,0.47575453,0.5242455,F. Krajinovic
+734,2022,frenchopen,1304,B. Van De Zandschulp,R. Nadal,R. Nadal,Clay,3,0.008794546,0.99120545,R. Nadal
+735,2022,frenchopen,1305,A. Zverev,B. Nakashima,A. Zverev,Clay,3,0.9992406,0.000759423,A. Zverev
+736,2022,frenchopen,1306,J. Isner,B. Zapata Miralles,B. Zapata Miralles,Clay,3,0.9507482,0.049251795,J. Isner
+737,2022,frenchopen,1307,C. Norrie,K. Khachanov,K. Khachanov,Clay,3,0.28264704,0.717353,K. Khachanov
+738,2022,frenchopen,1308,S. Korda,C. Alcaraz,C. Alcaraz,Clay,3,0.108546585,0.8914534,C. Alcaraz
+739,2022,frenchopen,1309,C. Ruud,L. Sonego,C. Ruud,Clay,3,0.8768567,0.123143315,C. Ruud
+740,2022,frenchopen,1310,D. Goffin,H. Hurkacz,H. Hurkacz,Clay,3,0.003389567,0.9966104,H. Hurkacz
+741,2022,frenchopen,1311,H. Rune,H. Gaston,H. Rune,Clay,3,0.5866755,0.41332448,H. Rune
+742,2022,frenchopen,1312,M. Ymer,S. Tsitsipas,S. Tsitsipas,Clay,3,0.021894783,0.9781052,S. Tsitsipas
+743,2022,frenchopen,1313,A. Rublev,C. Garin,A. Rublev,Clay,3,0.9586464,0.041353583,A. Rublev
+744,2022,frenchopen,1314,M. McDonald,J. Sinner,J. Sinner,Clay,3,0.040456414,0.9595436,J. Sinner
+745,2022,frenchopen,1315,G. Simon,M. Cilic,M. Cilic,Clay,3,0.8450592,0.15494078,G. Simon
+746,2022,frenchopen,1316,M. Kecmanovic,D. Medvedev,D. Medvedev,Clay,3,0.003298312,0.9967017,D. Medvedev
+747,2022,frenchopen,1401,N. Djokovic,D. Schwartzman,N. Djokovic,Clay,4,0.8171586,0.18284142,N. Djokovic
+748,2022,frenchopen,1402,F. Auger-Aliassime,R. Nadal,R. Nadal,Clay,4,0.013844997,0.98615503,R. Nadal
+749,2022,frenchopen,1403,A. Zverev,B. Zapata Miralles,A. Zverev,Clay,4,0.99736667,0.002633333,A. Zverev
+750,2022,frenchopen,1404,K. Khachanov,C. Alcaraz,C. Alcaraz,Clay,4,0.00310415,0.99689585,C. Alcaraz
+751,2022,frenchopen,1405,C. Ruud,H. Hurkacz,C. Ruud,Clay,4,0.42243668,0.5775633,H. Hurkacz
+752,2022,frenchopen,1406,H. Rune,S. Tsitsipas,H. Rune,Clay,4,0.115024894,0.8849751,S. Tsitsipas
+753,2022,frenchopen,1407,A. Rublev,J. Sinner,A. Rublev,Clay,4,0.6952342,0.30476582,A. Rublev
+754,2022,frenchopen,1408,M. Cilic,D. Medvedev,M. Cilic,Clay,4,0.002705246,0.9972948,D. Medvedev
+755,2022,frenchopen,1501,N. Djokovic,R. Nadal,R. Nadal,Clay,5,0.5727086,0.4272914,N. Djokovic
+756,2022,frenchopen,1502,A. Zverev,C. Alcaraz,A. Zverev,Clay,5,0.9827391,0.01726091,A. Zverev
+757,2022,frenchopen,1503,C. Ruud,H. Rune,C. Ruud,Clay,5,0.5070282,0.49297178,C. Ruud
+758,2022,frenchopen,1504,A. Rublev,M. Cilic,M. Cilic,Clay,5,0.44150096,0.55849904,M. Cilic
+759,2022,frenchopen,1601,R. Nadal,A. Zverev,R. Nadal,Clay,6,0.7547189,0.2452811,R. Nadal
+760,2022,frenchopen,1602,C. Ruud,M. Cilic,C. Ruud,Clay,6,0.14997023,0.85002977,M. Cilic
+761,2022,frenchopen,1701,R. Nadal,C. Ruud,R. Nadal,Clay,7,0.9537833,0.046216726,R. Nadal
+762,2022,wimbledon,1101,N. Djokovic,S. Kwon,N. Djokovic,Grass,1,0.9986112,0.001388788,N. Djokovic
+763,2022,wimbledon,1102,T. Kokkinakis,K. Majchrzak,T. Kokkinakis,Grass,1,0.98421776,0.015782237,T. Kokkinakis
+764,2022,wimbledon,1103,A. Tabilo,L. Djere,A. Tabilo,Grass,1,0.76246536,0.23753464,A. Tabilo
+765,2022,wimbledon,1104,J. Millman,M. Kecmanovic,M. Kecmanovic,Grass,1,0.671982,0.328018,J. Millman
+766,2022,wimbledon,1105,N. Basilashvili,L. Rosol,N. Basilashvili,Grass,1,0.76402086,0.23597914,N. Basilashvili
+767,2022,wimbledon,1106,B. Paire,Q. Halys,Q. Halys,Grass,1,0.9604211,0.039578915,B. Paire
+768,2022,wimbledon,1107,T. van Rijthoven,F. Delbonis,T. van Rijthoven,Grass,1,0.07839504,0.921605,F. Delbonis
+769,2022,wimbledon,1108,C. Taberner,R. Opelka,R. Opelka,Grass,1,0.09891701,0.901083,R. Opelka
+770,2022,wimbledon,1109,J. Sinner,S. Wawrinka,J. Sinner,Grass,1,0.69627154,0.30372846,J. Sinner
+771,2022,wimbledon,1110,D. Altmaier,M. Ymer,M. Ymer,Grass,1,0.991557,0.008442998,D. Altmaier
+772,2022,wimbledon,1111,A. Murray,J. Duckworth,A. Murray,Grass,1,0.7672713,0.23272872,A. Murray
+773,2022,wimbledon,1112,E. Couacaud,J. Isner,J. Isner,Grass,1,0.5097436,0.49025643,E. Couacaud
+774,2022,wimbledon,1113,O. Otte,P. Gojowczyk,O. Otte,Grass,1,0.91437095,0.085629046,O. Otte
+775,2022,wimbledon,1114,J. Clarke,C. Harrison,C. Harrison,Grass,1,0.83386624,0.16613376,J. Clarke
+776,2022,wimbledon,1115,T. Griekspoor,F. Fognini,T. Griekspoor,Grass,1,0.009955883,0.9900441,F. Fognini
+777,2022,wimbledon,1116,J. Struff,C. Alcaraz,C. Alcaraz,Grass,1,0.20669565,0.7933043,C. Alcaraz
+778,2022,wimbledon,1117,C. Ruud,A. Ramos,C. Ruud,Grass,1,0.99845445,0.001545548,C. Ruud
+779,2022,wimbledon,1118,T. Etcheverry,U. Humbert,U. Humbert,Grass,1,0.034194767,0.96580523,U. Humbert
+780,2022,wimbledon,1119,D. Goffin,R. Albot,D. Goffin,Grass,1,0.9525198,0.047480226,D. Goffin
+781,2022,wimbledon,1120,T. Daniel,S. Baez,S. Baez,Grass,1,0.8326512,0.1673488,T. Daniel
+782,2022,wimbledon,1121,F. Tiafoe,A. Vavassori,F. Tiafoe,Grass,1,0.99781895,0.002181053,F. Tiafoe
+783,2022,wimbledon,1122,M. Marterer,A. Bedene,M. Marterer,Grass,1,0.65584713,0.34415287,M. Marterer
+784,2022,wimbledon,1123,A. Bublik,M. Fucsovics,A. Bublik,Grass,1,0.28350013,0.71649987,M. Fucsovics
+785,2022,wimbledon,1124,D. Lajovic,P. Carreno Busta,D. Lajovic,Grass,1,0.14756268,0.8524373,P. Carreno Busta
+786,2022,wimbledon,1125,C. Norrie,P. Andujar,C. Norrie,Grass,1,0.8151406,0.1848594,C. Norrie
+787,2022,wimbledon,1126,T. Monterio,J. Munar,J. Munar,Grass,1,0.17849043,0.8215096,J. Munar
+788,2022,wimbledon,1127,R. Peniston,H. Laaksonen,R. Peniston,Grass,1,0.015965283,0.9840347,H. Laaksonen
+789,2022,wimbledon,1128,S. Johnson,G. Dimitrov,S. Johnson,Grass,1,0.058255285,0.9417447,G. Dimitrov
+790,2022,wimbledon,1129,T. Paul,F. Verdasco,T. Paul,Grass,1,0.28812933,0.7118707,F. Verdasco
+791,2022,wimbledon,1130,A. Mannarino,M. Purcell,A. Mannarino,Grass,1,0.98298883,0.017011166,A. Mannarino
+792,2022,wimbledon,1131,F. Coria,J. Vesely,J. Vesely,Grass,1,0.4339229,0.5660771,J. Vesely
+793,2022,wimbledon,1132,A. Davidovich Fokina,H. Hurkacz,A. Davidovich Fokina,Grass,1,0.531457,0.468543,A. Davidovich Fokina
+794,2022,wimbledon,1133,M. Berrettini,C. Garin,C. Garin,Grass,1,0.95688707,0.043112934,M. Berrettini
+795,2022,wimbledon,1134,M. Husler,H. Grenier,H. Grenier,Grass,1,0.7596095,0.24039048,M. Husler
+796,2022,wimbledon,1135,Z. Kolar,B. Bonzi,B. Bonzi,Grass,1,0.077673495,0.9223265,B. Bonzi
+797,2022,wimbledon,1136,M. Kukushkin,J. Brooksby,J. Brooksby,Grass,1,0.116546124,0.88345385,J. Brooksby
+798,2022,wimbledon,1137,A. De Minaur,H. Dellien,A. De Minaur,Grass,1,0.9785353,0.021464705,A. De Minaur
+799,2022,wimbledon,1138,Z. Bergs,J. Draper,J. Draper,Grass,1,0.44943434,0.55056566,J. Draper
+800,2022,wimbledon,1139,L. Broady,L. Klein,L. Broady,Grass,1,0.98558974,0.014410257,L. Broady
+801,2022,wimbledon,1140,B. Coric,D. Schwartzman,D. Schwartzman,Grass,1,0.14307356,0.85692644,D. Schwartzman
+802,2022,wimbledon,1141,D. Shapovalov,A. Rinderknech,D. Shapovalov,Grass,1,0.9922564,0.007743597,D. Shapovalov
+803,2022,wimbledon,1142,B. Nakashima,N. Kuhn,B. Nakashima,Grass,1,0.99725074,0.002749264,B. Nakashima
+804,2022,wimbledon,1143,D. Galan,D. Koepfer,D. Galan,Grass,1,0.26505646,0.7349435,D. Koepfer
+805,2022,wimbledon,1144,A. Balazs,R. Bautista Agut,R. Bautista Agut,Grass,1,0.012385637,0.9876144,R. Bautista Agut
+806,2022,wimbledon,1145,F. Krajinovic,J. Lehecka,F. Krajinovic,Grass,1,0.99386346,0.006136537,F. Krajinovic
+807,2022,wimbledon,1146,P. Jubb,N. Kyrgios,N. Kyrgios,Grass,1,0.014776498,0.98522353,N. Kyrgios
+808,2022,wimbledon,1147,R. Carballes Baena,J. Thompson,J. Thompson,Grass,1,0.018182427,0.9818176,J. Thompson
+809,2022,wimbledon,1148,A. Ritschard,S. Tsitsipas,S. Tsitsipas,Grass,1,0.006876737,0.9931233,S. Tsitsipas
+810,2022,wimbledon,1149,F. Auger Aliassime,M. Cressy,M. Cressy,Grass,1,0.8642385,0.1357615,F. Auger Aliassime
+811,2022,wimbledon,1150,B. Zapata Miralles,J. Sock,J. Sock,Grass,1,0.28327674,0.71672326,J. Sock
+812,2022,wimbledon,1151,D. Novak,F. Bagnis,D. Novak,Grass,1,0.08738324,0.9126167,F. Bagnis
+813,2022,wimbledon,1152,J. Kubler,D. Evans,J. Kubler,Grass,1,0.021149635,0.97885036,D. Evans
+814,2022,wimbledon,1153,H. Rune,M. Giron,M. Giron,Grass,1,0.096039295,0.9039607,M. Giron
+815,2022,wimbledon,1154,P. Martinez,A. Molcan,A. Molcan,Grass,1,0.5811995,0.41880047,P. Martinez
+816,2022,wimbledon,1155,A. Gray,C. Tseng,A. Gray,Grass,1,0.7633234,0.23667657,A. Gray
+817,2022,wimbledon,1156,L. Musetti,T. Fritz,T. Fritz,Grass,1,0.54275763,0.45724237,L. Musetti
+818,2022,wimbledon,1157,M. Cillic,M. McDonald,M. McDonald,Grass,1,0.011358053,0.988642,M. McDonald
+819,2022,wimbledon,1158,J. Sousa,R. Gasquet,R. Gasquet,Grass,1,0.16030708,0.83969295,R. Gasquet
+820,2022,wimbledon,1159,E. Ruusuvuori,Y. Nishioka,E. Ruusuvuori,Grass,1,0.49441868,0.5055813,Y. Nishioka
+821,2022,wimbledon,1160,F. Lopez,B. Van de Zandschulp,B. Van de Zandschulp,Grass,1,0.9618808,0.038119197,F. Lopez
+822,2022,wimbledon,1161,L. Sonego,D. Kudla,L. Sonego,Grass,1,0.6303134,0.3696866,L. Sonego
+823,2022,wimbledon,1162,A. Popyrin,H. Gaston,H. Gaston,Grass,1,0.55967,0.44033003,A. Popyrin
+824,2022,wimbledon,1163,S. Querrey,R. Beankis,R. Beankis,Grass,1,0.9951026,0.004897416,S. Querrey
+825,2022,wimbledon,1164,F. Cerudolo,R. Nadal,R. Nadal,Grass,1,0.003087044,0.99691296,R. Nadal
+826,2022,wimbledon,1201,N. Djokovic,T. Kokkinakis,N. Djokovic,Grass,2,0.9993987,0.000601292,N. Djokovic
+827,2022,wimbledon,1202,A. Tabilo,M. Kecmanovic,M. Kecmanovic,Grass,2,0.44197294,0.558027,M. Kecmanovic
+828,2022,wimbledon,1203,N. Basilashvili,Q. Halys,N. Basilashvili,Grass,2,0.8993212,0.1006788,N. Basilashvili
+829,2022,wimbledon,1204,T. van Rijthoven,R. Opelka,T. van Rijthoven,Grass,2,0.014181703,0.98581827,R. Opelka
+830,2022,wimbledon,1205,J. Sinner,M. Ymer,J. Sinner,Grass,2,0.9416903,0.058309674,J. Sinner
+831,2022,wimbledon,1206,A. Murray,J. Isner,J. Isner,Grass,2,0.05656472,0.9434353,J. Isner
+832,2022,wimbledon,1207,O. Otte,C. Harrison,O. Otte,Grass,2,0.98631036,0.013689637,O. Otte
+833,2022,wimbledon,1208,T. Griekspoor,C. Alcaraz,C. Alcaraz,Grass,2,0.007779688,0.9922203,C. Alcaraz
+834,2022,wimbledon,1209,C. Ruud,U. Humbert,U. Humbert,Grass,2,0.9447299,0.055270076,C. Ruud
+835,2022,wimbledon,1210,D. Goffin,S. Baez,D. Goffin,Grass,2,0.9982554,0.001744628,D. Goffin
+836,2022,wimbledon,1211,F. Tiafoe,M. Marterer,F. Tiafoe,Grass,2,0.9303807,0.0696193,F. Tiafoe
+837,2022,wimbledon,1212,A. Bublik,D. Lajovic,A. Bublik,Grass,2,0.12655428,0.87344575,D. Lajovic
+838,2022,wimbledon,1213,C. Norrie,J. Munar,C. Norrie,Grass,2,0.97406274,0.02593726,C. Norrie
+839,2022,wimbledon,1214,R. Peniston,S. Johnson,S. Johnson,Grass,2,0.008487791,0.9915122,S. Johnson
+840,2022,wimbledon,1215,T. Paul,A. Mannarino,T. Paul,Grass,2,0.993633,0.006367028,T. Paul
+841,2022,wimbledon,1216,J. Vesely,A. Davidovich Fokina,J. Vesely,Grass,2,0.2371783,0.7628217,A. Davidovich Fokina
+842,2022,wimbledon,1217,C. Garin,H. Grenier,C. Garin,Grass,2,0.995369,0.004630983,C. Garin
+843,2022,wimbledon,1218,B. Bonzi,J. Brooksby,J. Brooksby,Grass,2,0.10820681,0.8917932,J. Brooksby
+844,2022,wimbledon,1219,A. De Minaur,J. Draper,A. De Minaur,Grass,2,0.992409,0.007591009,A. De Minaur
+845,2022,wimbledon,1220,L. Broady,D. Schwartzman,L. Broady,Grass,2,0.013158798,0.9868412,D. Schwartzman
+846,2022,wimbledon,1221,D. Shapovalov,B. Nakashima,B. Nakashima,Grass,2,0.9988818,0.001118183,D. Shapovalov
+847,2022,wimbledon,1222,D. Galan,R. Bautista Agut,D. Galan,Grass,2,0.057832718,0.9421673,R. Bautista Agut
+848,2022,wimbledon,1223,F. Krajinovic,N. Kyrgios,N. Kyrgios,Grass,2,0.23747778,0.7625222,N. Kyrgios
+849,2022,wimbledon,1224,J. Thompson,S. Tsitsipas,S. Tsitsipas,Grass,2,0.08661941,0.9133806,S. Tsitsipas
+850,2022,wimbledon,1225,M. Cressy,J. Sock,J. Sock,Grass,2,0.7561128,0.24388719,M. Cressy
+851,2022,wimbledon,1226,D. Novak,J. Kubler,J. Kubler,Grass,2,0.049773574,0.9502264,J. Kubler
+852,2022,wimbledon,1227,M. Giron,A. Molcan,A. Molcan,Grass,2,0.16167215,0.8383279,A. Molcan
+853,2022,wimbledon,1228,A. Gray,T. Fritz,T. Fritz,Grass,2,0.009450048,0.9905499,T. Fritz
+854,2022,wimbledon,1229,M. McDonald,R. Gasquet,R. Gasquet,Grass,2,0.69183767,0.30816233,M. McDonald
+855,2022,wimbledon,1230,E. Ruusuvuori,B. Van de Zandschulp,B. Van de Zandschulp,Grass,2,0.98700213,0.012997866,E. Ruusuvuori
+856,2022,wimbledon,1231,L. Sonego,H. Gaston,L. Sonego,Grass,2,0.33326885,0.6667311,H. Gaston
+857,2022,wimbledon,1232,R. Beankis,R. Nadal,R. Nadal,Grass,2,0.00318858,0.9968114,R. Nadal
+858,2022,wimbledon,1301,N. Djokovic,M. Kecmanovic,N. Djokovic,Grass,3,0.99773073,0.002269268,N. Djokovic
+859,2022,wimbledon,1302,N. Basilashvili,T. van Rijthoven,T. van Rijthoven,Grass,3,0.79998314,0.20001686,N. Basilashvili
+860,2022,wimbledon,1303,J. Sinner,J. Isner,J. Sinner,Grass,3,0.6592489,0.3407511,J. Sinner
+861,2022,wimbledon,1304,O. Otte,C. Alcaraz,C. Alcaraz,Grass,3,0.28282797,0.717172,C. Alcaraz
+862,2022,wimbledon,1305,U. Humbert,D. Goffin,D. Goffin,Grass,3,0.80662465,0.19337535,U. Humbert
+863,2022,wimbledon,1306,F. Tiafoe,A. Bublik,F. Tiafoe,Grass,3,0.5753072,0.4246928,F. Tiafoe
+864,2022,wimbledon,1307,C. Norrie,S. Johnson,C. Norrie,Grass,3,0.24193776,0.75806224,S. Johnson
+865,2022,wimbledon,1308,T. Paul,J. Vesely,T. Paul,Grass,3,0.8246437,0.17535633,T. Paul
+866,2022,wimbledon,1309,C. Garin,J. Brooksby,C. Garin,Grass,3,0.34893,0.65107,J. Brooksby
+867,2022,wimbledon,1310,A. De Minaur,L. Broady,A. De Minaur,Grass,3,0.9968865,0.003113508,A. De Minaur
+868,2022,wimbledon,1311,B. Nakashima,D. Galan,B. Nakashima,Grass,3,0.5069092,0.4930908,B. Nakashima
+869,2022,wimbledon,1312,N. Kyrgios,S. Tsitsipas,N. Kyrgios,Grass,3,0.3187285,0.6812715,S. Tsitsipas
+870,2022,wimbledon,1313,J. Sock,J. Kubler,J. Kubler,Grass,3,0.17752963,0.82247037,J. Kubler
+871,2022,wimbledon,1314,A. Molcan,T. Fritz,T. Fritz,Grass,3,0.43165365,0.5683464,T. Fritz
+872,2022,wimbledon,1315,R. Gasquet,B. Van de Zandschulp,B. Van de Zandschulp,Grass,3,0.99446785,0.005532146,R. Gasquet
+873,2022,wimbledon,1316,L. Sonego,R. Nadal,R. Nadal,Grass,3,0.0035429,0.9964571,R. Nadal
+874,2022,wimbledon,1401,N. Djokovic,T. van Rijthoven,N. Djokovic,Grass,4,0.99890065,0.001099348,N. Djokovic
+875,2022,wimbledon,1402,J. Sinner,C. Alcaraz,J. Sinner,Grass,4,0.5473574,0.45264262,J. Sinner
+876,2022,wimbledon,1403,D. Goffin,F. Tiafoe,D. Goffin,Grass,4,0.9983177,0.001682282,D. Goffin
+877,2022,wimbledon,1404,C. Norrie,T. Paul,C. Norrie,Grass,4,0.4055895,0.59441054,T. Paul
+878,2022,wimbledon,1405,C. Garin,A. De Minaur,C. Garin,Grass,4,0.9707308,0.029269218,C. Garin
+879,2022,wimbledon,1406,B. Nakashima,N. Kyrgios,N. Kyrgios,Grass,4,0.4661455,0.5338545,N. Kyrgios
+880,2022,wimbledon,1407,J. Kubler,T. Fritz,T. Fritz,Grass,4,0.019242346,0.98075765,T. Fritz
+881,2022,wimbledon,1408,B. Van de Zandschulp,R. Nadal,R. Nadal,Grass,4,0.003285199,0.99671483,R. Nadal
+882,2022,wimbledon,1501,N. Djokovic,J. Sinner,N. Djokovic,Grass,5,0.9818706,0.018129408,N. Djokovic
+883,2022,wimbledon,1502,D. Goffin,C. Norrie,C. Norrie,Grass,5,0.83762497,0.16237503,D. Goffin
+884,2022,wimbledon,1503,C. Garin,N. Kyrgios,N. Kyrgios,Grass,5,0.35634434,0.64365566,N. Kyrgios
+885,2022,wimbledon,1504,T. Fritz,R. Nadal,R. Nadal,Grass,5,0.015690595,0.98430943,R. Nadal
+886,2022,wimbledon,1601,N. Djokovic,C. Norrie,N. Djokovic,Grass,6,0.9952959,0.004704118,N. Djokovic
+887,2022,wimbledon,1602,N. Kyrgios,R. Nadal,N. Kyrgios,Grass,6,0.012593001,0.98740697,R. Nadal
+888,2022,wimbledon,1701,N. Djokovic,N. Kyrgios,N. Djokovic,Grass,7,0.9902048,0.009795189,N. Djokovic
+889,2022,usopen,1101,D. Medvedev,S. Kozlov,D. Medvedev,Hard,1,1,0,D. Medvedev
+890,2022,usopen,1102,Q. Halys,A. Rinderknech,A. Rinderknech,Hard,1,0.68,0.32,Q. Halys
+891,2022,usopen,1103,B. Shelton,N. Borges,N. Borges,Hard,1,0.34,0.66,N. Borges
+892,2022,usopen,1104,Y. Wu,N. Basilashvili,Y. Wu,Hard,1,0.02,0.98,N. Basilashvili
+893,2022,usopen,1105,N. Kygios,T. Kokkinakas,N. Kygios,Hard,1,0.32,0.68,T. Kokkinakas
+894,2022,usopen,1106,B. Bonzi,U. Humbert,B. Bonzi,Hard,1,0.47,0.53,U. Humbert
+895,2022,usopen,1107,A. Tabilo,K. Majchrzak,A. Tabilo,Hard,1,0.83,0.17,A. Tabilo
+896,2022,usopen,1108,J. Wolf,R. Bautista Agut,J. Wolf,Hard,1,0.01,0.99,R. Bautista Agut
+897,2022,usopen,1109,P. Carreno Busta,D. Thiem,P. Carreno Busta,Hard,1,0.54,0.46,P. Carreno Busta
+898,2022,usopen,1110,A. Bublik,H. Gaston,A. Bublik,Hard,1,0.43,0.57,H. Gaston
+899,2022,usopen,1111,C. Garin,J. Lehecka,C. Garin,Hard,1,0.99,0.01,C. Garin
+900,2022,usopen,1112,F. Krajinovic,A. De Minaur,A. De Minaur,Hard,1,0.34,0.66,A. De Minaur
+901,2022,usopen,1113,K. Khachanov,D. Kudla,K. Khachanov,Hard,1,0.94,0.06,K. Khachanov
+902,2022,usopen,1114,A. Molcan,T. Monteiro,T. Monteiro,Hard,1,0.94,0.06,A. Molcan
+903,2022,usopen,1115,J. Draper,E. Ruusuvuori,J. Draper,Hard,1,0.14,0.86,E. Ruusuvuori
+904,2022,usopen,1116,A. Ritschard,F. Auger Aliassime,F. Auger Aliassime,Hard,1,0.01,0.99,F. Auger Aliassime
+905,2022,usopen,1117,S. Tsitsipas,D. Galan,D. Galan,Hard,1,0.98,0.02,S. Tsitsipas
+906,2022,usopen,1118,L. Sonego,J. Thompson,J. Thompson,Hard,1,0.49,0.51,J. Thompson
+907,2022,usopen,1119,Y. Nishioka,A. Davidovich Fokina,A. Davidovich Fokina,Hard,1,0.42,0.58,A. Davidovich Fokina
+908,2022,usopen,1120,M. Fucsovics,M. Cressy,M. Fucsovics,Hard,1,0.86,0.14,M. Fucsovics
+909,2022,usopen,1121,F. Cerundolo,A. Murray,A. Murray,Hard,1,0.02,0.98,A. Murray
+910,2022,usopen,1122,J. Millman,E. Nava,E. Nava,Hard,1,0.97,0.03,J. Millman
+911,2022,usopen,1123,T. Etcheverry,P. Andujar,T. Etcheverry,Hard,1,0.02,0.98,P. Andujar
+912,2022,usopen,1124,H. Dellien,M. Berrettini,M. Berrettini,Hard,1,0.01,0.99,M. Berrettini
+913,2022,usopen,1125,T. Fritz,B. Holt,B. Holt,Hard,1,1,0,T. Fritz
+914,2022,usopen,1126,A. Bedene,P. Cachin,P. Cachin,Hard,1,0.99,0.01,A. Bedene
+915,2022,usopen,1127,S. Wawrinka,C. Moutet,C. Moutet,Hard,1,0.86,0.14,S. Wawrinka
+916,2022,usopen,1128,T. Machac,B. Van De Zandschulp,B. Van De Zandschulp,Hard,1,0.42,0.58,B. Van De Zandschulp
+917,2022,usopen,1129,T. Paul,B. Zapata Miralles,T. Paul,Hard,1,0.92,0.08,T. Paul
+918,2022,usopen,1130,S. Korda,F. Bagnis,S. Korda,Hard,1,0.59,0.41,S. Korda
+919,2022,usopen,1131,Z. Zhang,T. Van Rijthoven,T. Van Rijthoven,Hard,1,0.95,0.05,Z. Zhang
+920,2022,usopen,1132,K. Edmund,C. Rudd,C. Rudd,Hard,1,0.05,0.95,C. Rudd
+921,2022,usopen,1133,H. Hurkacz,O. Otte,H. Hurkacz,Hard,1,0.55,0.45,H. Hurkacz
+922,2022,usopen,1134,S. Querrey,I. Ivashka,I. Ivashka,Hard,1,0.35,0.65,I. Ivashka
+923,2022,usopen,1135,A. Mannarino,G. Brouwer,G. Brouwer,Hard,1,0.98,0.02,A. Mannarino
+924,2022,usopen,1136,D. Goffin,L. Musetti,L. Musetti,Hard,1,0.67,0.33,D. Goffin
+925,2022,usopen,1137,G. Dimitrov,S. Johnson,G. Dimitrov,Hard,1,0.98,0.02,G. Dimitrov
+926,2022,usopen,1138,B. Nakashima,P. Kotov,B. Nakashima,Hard,1,1,0,B. Nakashima
+927,2022,usopen,1139,P. Martinez,C. Eubanks,C. Eubanks,Hard,1,0.99,0.01,P. Martinez
+928,2022,usopen,1140,D. Altmaier,J. Sinner,J. Sinner,Hard,1,0.94,0.06,D. Altmaier
+929,2022,usopen,1141,M. Cilic,M. Marterer,M. Cilic,Hard,1,0.99,0.01,M. Cilic
+930,2022,usopen,1142,N. Gombos,A. Ramos Vinolas,A. Ramos Vinolas,Hard,1,0.96,0.04,N. Gombos
+931,2022,usopen,1143,J. Duckworth,C. O'Connel,J. Duckworth,Hard,1,0.98,0.02,J. Duckworth
+932,2022,usopen,1144,J. Vesely,D. Evans,D. Evans,Hard,1,0.09,0.91,D. Evans
+933,2022,usopen,1145,B. Coric,E. Couacaud,B. Coric,Hard,1,0.87,0.13,B. Coric
+934,2022,usopen,1146,J. Brooksby,D. Lajovic,J. Brooksby,Hard,1,0.59,0.41,J. Brooksby
+935,2022,usopen,1147,T. Griekspoor,F. Coria,F. Coria,Hard,1,0.13,0.87,F. Coria
+936,2022,usopen,1148,S. Baez,C. Alcaraz,C. Alcaraz,Hard,1,0.01,0.99,C. Alcaraz
+937,2022,usopen,1149,C. Norrie,B. Paire,C. Norrie,Hard,1,0.65,0.35,C. Norrie
+938,2022,usopen,1150,J. Sousa,M. McDonald,J. Sousa,Hard,1,0.13,0.87,M. McDonald
+939,2022,usopen,1151,J. Isner,F. Delbonis,J. Isner,Hard,1,0.91,0.09,J. Isner
+940,2022,usopen,1152,P. Gojowczyk,H. Rune,H. Rune,Hard,1,0.98,0.02,P. Gojowczyk
+941,2022,usopen,1153,D. Shapovalov,M. Husler,D. Shapovalov,Hard,1,1,0,D. Shapovalov
+942,2022,usopen,1154,J. Munar,R. Carballes Baena,R. Carballes Baena,Hard,1,0.27,0.73,R. Carballes Baena
+943,2022,usopen,1155,F. Verdasco,S. Kwon,S. Kwon,Hard,1,0.92,0.08,F. Verdasco
+944,2022,usopen,1156,L. Djere,A. Rublev,A. Rublev,Hard,1,0.03,0.97,A. Rublev
+945,2022,usopen,1157,D. Schwartzman,J. Sock,D. Schwartzman,Hard,1,0.98,0.02,D. Schwartzman
+946,2022,usopen,1158,A. Popyrin,C. Tseng,A. Popyrin,Hard,1,1,0,A. Popyrin
+947,2022,usopen,1159,J. Kubler,M. Ymer,J. Kubler,Hard,1,0.09,0.91,M. Ymer
+948,2022,usopen,1160,M. Giron,F. Tiafoe,F. Tiafoe,Hard,1,0.09,0.91,F. Tiafoe
+949,2022,usopen,1161,M. Kecmanovic,L. Tien,M. Kecmanovic,Hard,1,0.99,0.01,M. Kecmanovic
+950,2022,usopen,1162,T. Daniel,R. Gasquet,R. Gasquet,Hard,1,0.11,0.89,R. Gasquet
+951,2022,usopen,1163,F. Fognini,A. Karatsev,F. Fognini,Hard,1,0.35,0.65,A. Karatsev
+952,2022,usopen,1164,R. Hijikata,R. Nadal,R. Nadal,Hard,1,0,1,R. Nadal
+953,2022,usopen,1201,D. Medvedev,A. Rinderknech,D. Medvedev,Hard,2,0.9994171,0.000582874,D. Medvedev
+954,2022,usopen,1202,N. Borges,Y. Wu,Y. Wu,Hard,2,0.048381034,0.95161897,Y. Wu
+955,2022,usopen,1203,N. Kygios,B. Bonzi,N. Kygios,Hard,2,0.013359517,0.98664045,B. Bonzi
+956,2022,usopen,1204,A. Tabilo,J. Wolf,J. Wolf,Hard,2,0.019886497,0.9801135,J. Wolf
+957,2022,usopen,1205,P. Carreno Busta,A. Bublik,P. Carreno Busta,Hard,2,0.8966481,0.10335189,P. Carreno Busta
+958,2022,usopen,1206,C. Garin,A. De Minaur,A. De Minaur,Hard,2,0.42487174,0.57512826,A. De Minaur
+959,2022,usopen,1207,K. Khachanov,T. Monteiro,K. Khachanov,Hard,2,0.98901206,0.010987937,K. Khachanov
+960,2022,usopen,1208,J. Draper,F. Auger Aliassime,F. Auger Aliassime,Hard,2,0.010079647,0.9899204,F. Auger Aliassime
+961,2022,usopen,1209,D. Galan,J. Thompson,D. Galan,Hard,2,0.4283344,0.57166564,J. Thompson
+962,2022,usopen,1210,A. Davidovich Fokina,M. Fucsovics,A. Davidovich Fokina,Hard,2,0.77440673,0.22559327,A. Davidovich Fokina
+963,2022,usopen,1211,A. Murray,E. Nava,A. Murray,Hard,2,0.95064133,0.049358666,A. Murray
+964,2022,usopen,1212,T. Etcheverry,M. Berrettini,M. Berrettini,Hard,2,0.006022355,0.99397767,M. Berrettini
+965,2022,usopen,1213,B. Holt,P. Cachin,P. Cachin,Hard,2,0.6678604,0.3321396,B. Holt
+966,2022,usopen,1214,C. Moutet,B. Van De Zandschulp,C. Moutet,Hard,2,0.3609284,0.6390716,B. Van De Zandschulp
+967,2022,usopen,1215,T. Paul,S. Korda,T. Paul,Hard,2,0.38279718,0.6172028,S. Korda
+968,2022,usopen,1216,T. Van Rijthoven,C. Ruud,C. Ruud,Hard,2,0.008499191,0.9915008,C. Ruud
+969,2022,usopen,1217,H. Hurkacz,I. Ivashka,I. Ivashka,Hard,2,0.7571103,0.2428897,H. Hurkacz
+970,2022,usopen,1218,G. Brouwer,L. Musetti,L. Musetti,Hard,2,0.010536153,0.98946387,L. Musetti
+971,2022,usopen,1219,G. Dimitrov,B. Nakashima,B. Nakashima,Hard,2,0.9988037,0.001196325,G. Dimitrov
+972,2022,usopen,1220,C. Eubanks,J. Sinner,J. Sinner,Hard,2,0.019961724,0.9800383,J. Sinner
+973,2022,usopen,1221,M. Cilic,A. Ramos Vinolas,M. Cilic,Hard,2,0.99659526,0.003404737,M. Cilic
+974,2022,usopen,1222,J. Duckworth,D. Evans,D. Evans,Hard,2,0.11846689,0.8815331,D. Evans
+975,2022,usopen,1223,B. Coric,J. Brooksby,J. Brooksby,Hard,2,0.89549845,0.104501545,B. Coric
+976,2022,usopen,1224,F. Coria,C. Alcaraz,C. Alcaraz,Hard,2,0.03221989,0.9677801,C. Alcaraz
+977,2022,usopen,1225,C. Norrie,J. Sousa,C. Norrie,Hard,2,0.7221498,0.2778502,C. Norrie
+978,2022,usopen,1226,J. Isner,H. Rune,H. Rune,Hard,2,0.9973276,0.002672374,J. Isner
+979,2022,usopen,1227,D. Shapovalov,R. Carballes Baena,D. Shapovalov,Hard,2,0.97261184,0.027388155,D. Shapovalov
+980,2022,usopen,1228,S. Kwon,A. Rublev,A. Rublev,Hard,2,0.03600766,0.96399236,A. Rublev
+981,2022,usopen,1229,D. Schwartzman,A. Popyrin,D. Schwartzman,Hard,2,0.99919856,0.000801444,D. Schwartzman
+982,2022,usopen,1230,J. Kubler,F. Tiafoe,F. Tiafoe,Hard,2,0.019636236,0.9803638,F. Tiafoe
+983,2022,usopen,1231,M. Kecmanovic,R. Gasquet,R. Gasquet,Hard,2,0.7852799,0.21472007,M. Kecmanovic
+984,2022,usopen,1232,F. Fognini,R. Nadal,R. Nadal,Hard,2,0.011072777,0.98892725,R. Nadal
+985,2022,usopen,1301,D. Medvedev,Y. Wu,D. Medvedev,Hard,3,0.99831337,0.001686633,D. Medvedev
+986,2022,usopen,1302,N. Kygios,J. Wolf,N. Kygios,Hard,3,0.005949599,0.9940504,J. Wolf
+987,2022,usopen,1303,P. Carreno Busta,A. De Minaur,A. De Minaur,Hard,3,0.8779291,0.12207091,P. Carreno Busta
+988,2022,usopen,1304,K. Khachanov,F. Auger Aliassime,K. Khachanov,Hard,3,0.6484027,0.3515973,K. Khachanov
+989,2022,usopen,1305,D. Galan,A. Davidovich Fokina,A. Davidovich Fokina,Hard,3,0.36004204,0.63995796,A. Davidovich Fokina
+990,2022,usopen,1306,A. Murray,M. Berrettini,M. Berrettini,Hard,3,0.014952338,0.98504764,M. Berrettini
+991,2022,usopen,1307,P. Cachin,C. Moutet,C. Moutet,Hard,3,0.018982816,0.9810172,C. Moutet
+992,2022,usopen,1308,T. Paul,C. Ruud,C. Ruud,Hard,3,0.239983,0.760017,C. Ruud
+993,2022,usopen,1309,I. Ivashka,L. Musetti,I. Ivashka,Hard,3,0.45141655,0.54858345,L. Musetti
+994,2022,usopen,1310,B. Nakashima,J. Sinner,J. Sinner,Hard,3,0.31893557,0.6810644,J. Sinner
+995,2022,usopen,1311,M. Cilic,D. Evans,M. Cilic,Hard,3,0.6626419,0.33735812,M. Cilic
+996,2022,usopen,1312,J. Brooksby,C. Alcaraz,C. Alcaraz,Hard,3,0.21646744,0.78353256,C. Alcaraz
+997,2022,usopen,1313,C. Norrie,H. Rune,C. Norrie,Hard,3,0.9961683,0.003831685,C. Norrie
+998,2022,usopen,1314,D. Shapovalov,A. Rublev,A. Rublev,Hard,3,0.49518982,0.5048102,A. Rublev
+999,2022,usopen,1315,D. Schwartzman,F. Tiafoe,F. Tiafoe,Hard,3,0.901328,0.09867197,D. Schwartzman
+1000,2022,usopen,1316,R. Gasquet,R. Nadal,R. Nadal,Hard,3,0.002788471,0.9972115,R. Nadal
+1001,2022,usopen,1401,D. Medvedev,N. Kygios,N. Kygios,Hard,4,0.99978095,0.000219047,D. Medvedev
+1002,2022,usopen,1402,A. De Minaur,K. Khachanov,K. Khachanov,Hard,4,0.85860825,0.14139175,A. De Minaur
+1003,2022,usopen,1403,A. Davidovich Fokina,M. Berrettini,M. Berrettini,Hard,4,0.091089584,0.9089104,M. Berrettini
+1004,2022,usopen,1404,C. Moutet,C. Ruud,C. Ruud,Hard,4,0.20052011,0.7994799,C. Ruud
+1005,2022,usopen,1405,I. Ivashka,J. Sinner,J. Sinner,Hard,4,0.318689,0.681311,J. Sinner
+1006,2022,usopen,1406,M. Cilic,C. Alcaraz,C. Alcaraz,Hard,4,0.44126505,0.55873495,C. Alcaraz
+1007,2022,usopen,1407,C. Norrie,A. Rublev,A. Rublev,Hard,4,0.17262161,0.8273784,A. Rublev
+1008,2022,usopen,1408,F. Tiafoe,R. Nadal,F. Tiafoe,Hard,4,0.017783813,0.9822162,R. Nadal
+1009,2022,usopen,1501,N. Kygios,K. Khachanov,K. Khachanov,Hard,5,0.012882709,0.9871173,K. Khachanov
+1010,2022,usopen,1502,M. Berrettini,C. Ruud,C. Ruud,Hard,5,0.87880254,0.12119746,M. Berrettini
+1011,2022,usopen,1503,J. Sinner,C. Alcaraz,C. Alcaraz,Hard,5,0.5457827,0.4542173,J. Sinner
+1012,2022,usopen,1504,A. Rublev,F. Tiafoe,F. Tiafoe,Hard,5,0.89960015,0.10039985,A. Rublev
+1013,2022,usopen,1601,K. Khachanov,C. Ruud,C. Ruud,Hard,6,0.7534953,0.24650472,K. Khachanov
+1014,2022,usopen,1602,C. Alcaraz,F. Tiafoe,C. Alcaraz,Hard,6,0.8700264,0.12997359,C. Alcaraz
+1015,2022,usopen,1701,C. Ruud,C. Alcaraz,C. Alcaraz,Hard,7,0.60672385,0.39327615,C. Ruud

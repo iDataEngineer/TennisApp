@@ -1,0 +1,46 @@
+# GitHub Actions - TennisApp ETL Pipeline
+ 
+name: pipeline
+
+on:
+  schedule: 
+    - cron: "30 14 * * *"
+
+jobs:
+  AppData:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Checkout Repo
+        uses: actions/checkout@v3 
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11' 
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run ATP Pipeline
+        run: python -m src.api.tour_results
+        env: 
+          TOUR_KEY: "ATP"
+
+      - name: Run WTA Pipeline
+        run: python -m src.api.tour_results
+        env: 
+          TOUR_KEY: "WTA"
+          
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Pipeline (GitHub Actions)" -a
+        
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
