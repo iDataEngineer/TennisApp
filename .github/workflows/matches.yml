@@ -4,7 +4,7 @@ name: matches-pipeline
 
 on:
   schedule: 
-    - cron: "* 14 * * *"
+    - cron: "* 15 * * *"
 
 jobs:
   AppData:
@@ -20,7 +20,7 @@ jobs:
           python-version: 3.12 
 
       - name: Install dependencies
-        run: python -m pip sync
+        run: python -m sync
 
       - name: Run ATP Pipeline
         run: python -m src.matches

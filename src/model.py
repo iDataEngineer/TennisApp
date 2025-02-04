@@ -4,9 +4,9 @@ from sklearn.model_selection import train_test_split
 from sklearn import metrics
 
 import keras
-from tensorflow.python.keras import Sequential
-from tensorflow.python.keras.layers import Dense
-from tensorflow.python.keras.callbacks import EarlyStopping
+from keras import Sequential
+from keras.src.layers import Dense
+from keras.src.callbacks import EarlyStopping
 
 from tensorflow.python.keras.engine import data_adapter
 
@@ -179,9 +179,7 @@ class NeuralModel:
         
         # Save
         if save_model == True:
-           # Issue with .keras format - using old .h5 works 
-           model.save(f'models/dropshot.h5')
-        #    model.save(f'models/model_assets_{timestamp}.keras')
+           model.save(f'models/dropshot.keras')
         
         return {
             'timestamp': timestamp,
@@ -205,19 +203,30 @@ class NeuralModel:
         )
 
 
-if __name__ == '__main__':
-    data = NeuralModel.load_data(
-        dir="data/events", 
-        start_year=2011, 
-        end_year=2025, 
-        tournament_list=['ausopen', 'frenchopen', 'wimbledon', 'usopen']
+if __name__ == '__main__':   
+    # Build a model
+    model = NeuralModel.build(
+        data = NeuralModel.load_data(
+            dir="data/events", 
+            start_year=2011, 
+            end_year=2021, 
+            tournament_list=['ausopen', 'frenchopen', 'wimbledon', 'usopen']
+        ), 
+        save_model = True
     )
-    
-    model = NeuralModel.build(data, save_model = True)
     print(f'''Accuracy: {model['accuracy']}''')
     print(model["dataset"])
 
-    predictions = NeuralModel.pred("models/dropshot.h5", data)
+    # Run a model
+    predictions = NeuralModel.pred(
+        model="models/dropshot.keras", 
+        data = NeuralModel.load_data(
+            dir="data/events", 
+            start_year=2022, 
+            end_year=2025, 
+            tournament_list=['ausopen', 'frenchopen', 'wimbledon', 'usopen']
+        ),
+    )
     with pl.Config(tbl_cols=-1):
         print(predictions)
 
