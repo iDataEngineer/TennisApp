@@ -41,11 +41,11 @@ def get_tour_results(start_year = 1968, end_year = dt.datetime.now().year + 1, t
             if n == 0:
                 df_tour = df_iter
             else:
-                df_tour = pl.concat([df_tour, df_iter])
+                df_tour = pl.concat([df_tour, df_iter], how="vertical_relaxed")
     
     # Set up mapping groups
-    map_tourney_level = {"A": 1, "M": 2, "F": 3, "G": 4, "D":0, "O": 0}
-    map_round = {"R128": 1, "R64": 2, "R32": 3, "R16": 4, "QF": 5, "SF": 6, "F": 7, "BR": 0, "RR":5}
+    map_tourney_level = {"A": 1, "M": 2, "F": 3, "G": 4}
+    map_round = {"R128": 1, "R64": 2, "R32": 3, "R16": 4, "QF": 5, "SF": 6, "F": 7, "RR":5}
     null_map = {
         "London Olympics": 0, "Rio Olympics": 0, "Tokyo Olympics": 0, "Paris Olympics": 0,
         "ATP Next Gen Finals": 0,"Us Open": 2000, "Cagliari": 250, "Marbella": 250}
@@ -57,8 +57,8 @@ def get_tour_results(start_year = 1968, end_year = dt.datetime.now().year + 1, t
 
     # Map objects to integers
     df_tour = df_tour.with_columns(
-        tourney_level=pl.col("tourney_level").cast(pl.String).replace_strict(map_tourney_level),
-        round_no=pl.col("round").cast(pl.String).replace_strict(map_round),
+        tourney_level=pl.col("tourney_level").cast(pl.String).replace_strict(map_tourney_level, default=0),
+        round_no=pl.col("round").cast(pl.String).replace_strict(map_round, default=0),
         tour_points=pl.col("tourney_name").map_elements(lambda x: 0 if str(x) not in events_map.keys() else events_map[str(x)], pl.Int64)
     )
     
@@ -109,7 +109,9 @@ def get_tour_results(start_year = 1968, end_year = dt.datetime.now().year + 1, t
 if __name__ == "__main__":
     import os
     tour_key = os.getenv("TOUR_KEY")
-
+    
     table_name=f"{tour_key}_matches"
     table_data=get_tour_results(start_year=2011, tour=tour_key)
-    table_data.write_parquet(f"data/{table_name}.parquet")
+    table_data.write_parquet(f"data/matches/{table_name}.parquet")
+
+    print(table_data)
